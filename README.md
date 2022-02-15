@@ -6,3 +6,5 @@ Traducción de los artículos [From Bias to Feminist AI](https://feministai.pubp
 
 ## Mantenedores
 [@Tomas-Acs](https://github.com/Tomas-Acs)
+
+***

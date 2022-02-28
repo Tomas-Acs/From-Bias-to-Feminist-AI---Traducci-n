@@ -24,6 +24,12 @@ Pero los gobiernos no están solos en estos esfuerzos por recolectar y guardar i
 
 Esta es la economía de la información, muchas veces estas corporaciones son ayudadas por científicos académicos, buscan constantemente cuales comportamientos, en línea o locales, quedan por transformar en información y monetizarlos. Nada está fuera del alcance de la “datificación”, como es normalmente acuñado, ni su historial de búsqueda, los gatos de Catherine o el trasero de Lauren que está usando para sentarse en su silla. Por ejemplo, Shigeomi Koshimizu, un profesor de Ingeniería de Tokio está actualmente diseñando matrices de sensores que guardan información en 360 posiciones diferentes mientras esté implantado en una silla [^8]. El propone que las personas tienen un ID único en sus traseros, algo como las huellas dactilares de los dedos. En el futuro, el sugiere, que nuestros carros van a estar diseñados con el ID de nuestro trasero en lugar de llaves o alarmas para identificar al dueño del carro.
 
+Aunque la “datificación” muchas veces raya con lo absurdo, es un problema muy serio. Decisiones en el ámbito cívico, económico e individuales ya están siendo tomadas y cada vez más por sistemas automatizados que iteran por bases de datos masivas. Por ejemplo, PredPol, una compañía de vigilancia fundada en el 20212 por un antropólogo profesor de la Universidad de California, ha sido contratada por más de una década por la ciudad de Los Ángeles para determinar cuales barrios y zonas necesitan mas vigilancia de parte de policías y cuales ignorar. Pero como PredPol está basado en información histórica y las actividades de vigilancia de los Estados Unidos siempre han estado desproporcionalmente vigilando barrios y zonas de color, las predicciones de donde va a ocurrir los crímenes en el futuro se parecen mucho a las actividades racistas del pasado [^9]. Estos sistemas crean lo que la matemática y escritora Cathy O’Neil, en *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, llama un ciclo destructivo de retroalimentación, amplificando los efectos del racismo y la criminalización de la pobreza que ya están presente en los Estados Unidos de América.
+
+La solución de O’Neil es abrir los sistemas computacionales que producen estos resultados racistas. La única manera de comprender porque estos resultados se están generando, es estudiando los propios sistemas. La transparencia es una pieza clave en el proceso para mitigar los efectos de la información sesgada. Aun así, podemos hacer mucho más que estudiar sistemas discriminatorios. Nuestro mundo actual requiere mucho más y aquí es donde la información feminista entra en juego.
+La información feminista es una forma de pensar acerca la información, su análisis y su método de representarlo, el cual es fuertemente informado por la rica historia del activismo feminista y la critica feminista. Este tipo de información inicia con la creencia de una equidad entre géneros y reconociendo que este objetivo requiere (para todas las etnias, orientaciones sexuales y ubicaciones en el mundo) un compromiso para examinar la raíz causante de las desigualdades que sufren ciertos grupos en la actualidad. En el caso de PredPol, la información feminista nos requeriría adicionalmente que investiguemos y rastreemos la información sesgada hasta su origen. La raíz causante del racismo sesgado en “los tres puntos informativos más objetivos” que PredPol utiliza es la larga historia de criminalización de los negros en Estados Unidos de América, lo cual produce practicas sesgadas contra ellos, y en consecuencia se produce información histórica, la cual después es usada para desarrollar modelos de riesgo para el futuro [^10]. Rastrear estos lazos de fuerzas históricas y actuales de opresión, nos pueden ayudar a responder la pregunta ética de si este sistema debería existir en lo absoluto [^11]. Este es el trabajo de una información feminista también. En el caso de PredPol, la respuesta en un rotundo no.
+
+
 
 
 
@@ -44,3 +50,8 @@ Esta es la economía de la información, muchas veces estas corporaciones son ay
 
 [^8]:
 
+[^9]:
+
+[^10]:
+
+[^11]:

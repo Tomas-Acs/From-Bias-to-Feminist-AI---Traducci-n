@@ -61,6 +61,22 @@ La información es un arma de doble filo. En un sentido muy literal, la informac
 
 Para guiarnos en este trabajo, hemos desarrollado siete principios claves. Individualmente y en conjunto, estos principios surgen de la fundación interseccional del pensamiento feminista. Cada capítulo en nuestro libro esta estructurado alrededor de cada uno de los principios. Los siete principios de la información de datos feminista son los siguientes:
 
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6IjkyMmpncWM5LzcxNjI5ODE2MjkxMzgwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299238-124c61f0-2d2f-43b5-bd3b-34da155a629e.jpg)
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6ImplMWFndXplLzExNjI5ODE2MjkxMzgwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299246-b4d37679-ffce-4429-b8c9-cd7274e0c1dc.jpg)
+
+Examine power. Data feminism begins by analyzing how power operates in the world.
+
+Examinar el poder. El feminismo de datos empieza por analizar cómo opera el poder en el mundo.
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InA1eHV2NDgwLzUxNjI5ODE2MjkxMzgwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299275-e94d488c-ed2e-4dc4-85c0-c095f65e7eb7.jpg)
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Im84ZTh5dGZmLzQxNjI5ODE2MjkxMzgwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299282-410228d0-9658-41c4-978c-7689a0e8dd8c.jpg)
+
+Challenge power. Data feminism commits to challenging unequal power structures and working toward justice.  
+
+Desafiar el poder. El feminismo de datos se compromete a desafiar las estructuras de poder desiguales y a trabajar por la justicia.
+
+
 
 [^1]: Después de varios años de vender kits de computadora, los cuales tenían que ser ensamblados en casa. En 1977, tres compañías sacaron al mercado computadoras prefabricadas: La Apple II, la Commodore PET y la TRS-80. Para más información en la historia de la computación, ver la página en línea del museo de la computación, https://computerhistory.org/. Para más información en la historia de las mujeres en la computación, ver Jennifer Light, “When Computers Were Women”, *Technology and Culture 40.3 (July 1999): 455-483*, y mas recientemente, Mar Hicks, Programmed Inequality: *How Britain Discarded Women Technologists and Lost Its Edge in Computing (MIT Press, 2017)*.
 

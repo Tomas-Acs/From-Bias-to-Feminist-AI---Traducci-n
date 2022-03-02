@@ -124,7 +124,81 @@ Reiterando nuestra propuesta, es que el feminismo de datos es para todos. Es par
 # Más sobre el feminismo de datos
 *Información Feminista* es un libro de acceso abierto publicado por el MIT Press en el 2020. Se puede leer gratis de forma en línea en la siguiente página: https://data-feminism.mitpress.mit.edu/ o se puede comprar desde su librería local independiente. 
  
+# Referencias 
 
+Alexander, Michelle. The New Jim Crow. The New Press, 2012.
+
+Anderson, Margo J. The American Census: A Social History. Yale University Press, 2015.
+
+Benjamin, Ruha. Race After Technology: Abolitionist Tools for the New Jim Code. 1st edition. Medford, MA: Polity, 2019.
+
+Browne, Simone. Dark Matters: On the Surveillance of Blackness. Duke University Press, 2015.
+
+CHM. ‘Home’. CHM. Accessed 23 May 2021. https://computerhistory.org/.
+
+Cooper, Brittney C., Susana M. Morris, and Robin M. Boylorn, eds. The Crunk Feminist Collection. New York: The Feminist Press at CUNY, 2017.
+
+Crenshaw, Kimberle. ‘Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics’. University of Chicago Legal Forum 1989, no. 1 (7 December 2015). https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8.
+
+———. ‘Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color’. Stanford Law Review 43, no. 6 (1991): 1241–99. https://doi.org/10.2307/1229039.
+
+Crossman, Ashley. ‘What Sociology Can Teach Us About Oppression’. ThoughtCo. Accessed 23 May 2021. https://www.thoughtco.com/social-oppression-3026593.
+
+D’Ignazio. ‘Catherine D’Ignazio on Instagram: “There’s Truly Nothing More Pleasing than a #MaineCoonCat in a Rainbow Lei”’. Accessed 23 May 2021. https://www.instagram.com/p/BgxGicVhhTW/.
+
+DuVernay, Ava. 13th. Documentary, Crime, History. Forward Movement, Kandoo Films, Netflix, 2016.
+
+Ehrenreich, Barbara. Witches, Midwives, and Nurses: A History of Women Healers. 2nd edition. New York City: The Feminist Press at CUNY, 2010.
+
+Eubanks, Virginia. Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor. New York, NY: St. Martin’s Press, 2018.
+
+Fake, Caterina. ‘Should This Exist’. Should This Exist? Accessed 23 May 2021. https://shouldthisexist.com/.
+
+Farrell, Molly. Counting Bodies: Population in Colonial American Writing. Oxford University Press, 2016.
+
+Gallardo, Adriana. ‘How We Collected Nearly 5,000 Stories of Maternal Harm’. ProPublica. Accessed 23 May 2021. https://www.propublica.org/article/how-we-collected-nearly-5-000-stories-of-maternal-harm?token=gKXJz8oaquJjtQQXfWohwVdXFUbpvysX.
+
+Hooks, Bell. Feminism Is for Everybody: Passionate Politics. Pluto Press, 2000.
+
+Hugs, Robot. ‘Having Trouble Explaining Oppression? This Comic Can Do It for You’. Everyday Feminism, 30 January 2017. https://everydayfeminism.com/2017/01/trouble-explaining-oppression/.
+
+Intellectual Genealogies, Intersectionality, and Anna Julia Cooper: Vivian M. May. Feminist Solidarity at the Crossroads. Routledge, 2012. https://doi.org/10.4324/9780203145050-12.
+
+Johnson, Jessica Marie. ‘Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads’. Social Text 36, no. 4 (137) (1 December 2018): 57–79. https://doi.org/10.1215/01642472-7145658.
+
+Koh, Yoree. ‘Forget Fingerprints: Car Seat IDs Driver’s Rear End’. Wall Street Journal, 18 January 2012, sec. Driver’s Seat. https://www.wsj.com/articles/BL-DSB-8296.
+
+Light, Jennifer S. ‘When Computers Were Women’. Technology and Culture 40, no. 3 (1999): 455–83.
+
+Logipix Ltd. ‘Safe and Smart Cities’. Logipix. Accessed 23 May 2021. http://www.logipix.com/index.php/safe-and-smart-cities.
+
+Mattern, Shannon. ‘Mission Control: A History of the Urban Dashboard’. Places Journal, 9 March 2015. https://doi.org/10.22269/150309.
+
+Mattu, Julia Angwin, Jeff Larson,Lauren Kirchner,Surya. ‘Machine Bias’. ProPublica. Accessed 23 May 2021. https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing?token=z-JINiwkIjlB5pxCVLzVjG9Q2IGCjWJS.
+
+Mogel, Lize. ‘Walking the Watershed-The Project’. Accessed 23 May 2021. https://www.walkingthewatershed.com/home/.
+
+Moraga, Cherríe. This Bridge Called My Back, Fourth Edition: Writings by Radical Women of Color. Edited by Gloria Anzaldúa. 4th edition. Albany: State University of New York Press, 2015.
+
+O’Neil, Cathy. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Penguin UK, 2016.
+
+PredPol. ‘About Us’. PredPol (blog). Accessed 23 May 2021. https://www.predpol.com/about/.
+
+———. ‘Predictive Policing Technology’. PredPol (blog). Accessed 23 May 2021. https://www.predpol.com/technology/.
+
+Raley, Rita. ‘Dataveillance and Countervailance’, 2013. https://escholarship.org/uc/item/2b12683k.
+
+Simon, Patrick. ‘Collecting Ethnic Statistics in Europe: A Review’. Ethnic and Racial Studies 35, no. 8 (1 August 2012): 1366–91. https://doi.org/10.1080/01419870.2011.607507.
+
+Spade, Dean, and Rori Rohlfs. ‘Legal Equality, Gay Numbers and the (After?)Math of Eugenics’. S&F Online. Accessed 23 May 2021. http://sfonline.barnard.edu/navigating-neoliberalism-in-the-academy-nonprofits-and-beyond/dean-spade-rori-rohlfs-legal-equality-gay-numbers-and-the-aftermath-of-eugenics/.
+
+Stop LAPD Spying Coalition. ‘To Observe and to Suspect”: A People’s Audit of the Los Angeles Police Department’s Special Order 1’, 19 March 2013. https://stoplapdspying.org/wp-content/uploads/2013/04/PEOPLES-AUDIT-UPDATED-APRIL-2-2013-A.pdf.
+
+The Latin American Initiative for Open Data. ‘( Guía Para Protocolizar Procesos de Identificación de Feminicidios’. ILDA (blog), 1 September 2020. http://idatosabiertos.org/guia-para-protocolizar-procesos-de-identificacion-de-feminicidios/.
+
+Vaz, Kim Marie, and Gary L Lemons. Feminist Solidarity at the Crossroads: Intersectional Women’s Studies for Transracial Alliance. New York: Routledge, 2012.
+
+Wernimont, Jacqueline. Numbered Lives: Life and Death in Quantum Media. MIT Press, 2019.
 
 
 [^1]: Después de varios años de vender kits de computadora, los cuales tenían que ser ensamblados en casa. En 1977, tres compañías sacaron al mercado computadoras prefabricadas: La Apple II, la Commodore PET y la TRS-80. Para más información en la historia de la computación, ver la página en línea del museo de la computación, https://computerhistory.org/. Para más información en la historia de las mujeres en la computación, ver Jennifer Light, “When Computers Were Women”, *Technology and Culture 40.3 (July 1999): 455-483*, y mas recientemente, Mar Hicks, Programmed Inequality: *How Britain Discarded Women Technologists and Lost Its Edge in Computing (MIT Press, 2017)*.

@@ -77,6 +77,43 @@ Challenge power. Data feminism commits to challenging unequal power structures a
 Desafiar el poder. El feminismo de datos se compromete a desafiar las estructuras de poder desiguales y a trabajar por la justicia.
 
 
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InprZjJjNG1tLzcxNjI5ODE2MjkxMzY5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299578-de7d254c-2f59-40ec-867b-f1ebdc2391c4.jpg)
+
+Elevate emotion and embodiment. Data feminism teaches us to value multiple forms of knowledge, including the knowledge that comes from people as living, feeling bodies in the world.  
+
+Elevar la emoción y la corporalidad. El feminismo de datos nos enseña a valorar múltiples formas de conocimiento, incluyendo los conocimientos de las personas en su carácter de cuerpos vivos y sensibles en el mundo.
+
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InRwaWZqYTFqLzMxNjI5ODE2MjkxMzc4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299651-47e0bc2b-6de3-40ef-92c1-346c0a5496b2.jpg)
+
+Rethink binaries and hierarchies. Data feminism requires us to challenge the gender binary, along with other systems of counting and classification that perpetuate oppression.
+
+Repensar los binarismos y las jerarquías. El feminismo de datos nos obliga a desafiar el binarismo de género, así como otros sistemas de cuantificación y clasificación que perpetúan las opresiones.
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6ImRsczNvdWFkLzYxNjI5ODE2MjkxMzc4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299687-ebdc07d0-acdf-42a2-bc79-5847c6fee66a.jpg)
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6IjFtZ290MjR5LzExNjI5ODE2MjkxMzc4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299733-0f4a3a97-61b1-433f-aca0-a21354b50963.jpg)
+
+
+Embrace pluralism. Data feminism insists that the most complete knowledge comes from synthesizing multiple perspectives, with priority given to local, Indigenous, and experiential ways of knowing.  
+
+Adoptar el pluralismo. El feminismo de datos insiste en que el conocimiento más completo surge de sintetizar múltiples perspectivas, y prioriza los saberes locales, indígenas y basados en la experiencia.
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6ImNubGdhOXA5LzQxNjI5ODE2MjkxMzc5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299776-b16b7303-e09b-40b5-a025-5d4c91693178.jpg)
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6IjU4Z2YxeWtoLzcxNjI5ODE2MjkxMzc5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299784-1145c4b5-6bee-4500-859e-b0a357f07155.jpg)
+
+Consider context. Data feminism asserts that data are not neutral or objective. They are the products of unequal social relations, and this context is essential for conducting accurate, ethical analysis.
+
+Considerar el contexto. El feminismo de datos afirma que los datos no son ni neutrales ni objetivos. Son producto de relaciones sociales desiguales, y este contexto es esencial para realizar un análisis ético y preciso.
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6IjV5aWF2aWtqLzQxNjI5ODE2MjkxMzc5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299812-b996269f-548b-433e-966a-f7983fb7e668.jpg)
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Im5jMnFxemxqLzQxNjI5ODE2MjkxMzc5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299824-d5043d9a-dd3b-46ea-a933-b1104cc56605.jpg)
+
+Make labor visible. The work of data science, like all work in the world, is the work of many hands. Data feminism makes this labor visible so that it can be recognized and valued.
+
+Hacer visible el trabajo. El trabajo de la ciencia de datos, como todo trabajo en el mundo, es el trabajo de muchas manos. El feminismo de datos hace visible esta labor, para que pueda ser reconocida y valorada.
 
 [^1]: Después de varios años de vender kits de computadora, los cuales tenían que ser ensamblados en casa. En 1977, tres compañías sacaron al mercado computadoras prefabricadas: La Apple II, la Commodore PET y la TRS-80. Para más información en la historia de la computación, ver la página en línea del museo de la computación, https://computerhistory.org/. Para más información en la historia de las mujeres en la computación, ver Jennifer Light, “When Computers Were Women”, *Technology and Culture 40.3 (July 1999): 455-483*, y mas recientemente, Mar Hicks, Programmed Inequality: *How Britain Discarded Women Technologists and Lost Its Edge in Computing (MIT Press, 2017)*.
 

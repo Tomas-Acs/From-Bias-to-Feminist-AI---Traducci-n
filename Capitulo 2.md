@@ -224,4 +224,17 @@ Wernimont, Jacqueline. Numbered Lives: Life and Death in Quantum Media. MIT Pres
 
 [^10]:“Sobre Nosotros”, PredPol, accedido el 23 de Julio, 2019, https://www.predpol.com/about/. Incluso después de que las ataduras legales de la esclavitud fueron abolidas con la ratificación de la decimotercera enmienda en 1865, la proliferación de códigos “negros” fueron abundantes. Estas leyes fueron permitidas mayoritariamente en el Sur de los Estados Unidos de forma que restringieron a los ciudadanos negros libertad de movimiento, acceso a oportunidades y protección bajo la ley. Algunas de estas leyes fueron desafiadas por el publico y en las cortes, sin embargo, fue un proceso muy difícil desmantelarlas por completo. De hecho, en la mayoría de los estados del Sur, simplemente fueron reemplazadas por regulaciones que usaban lenguaje ambiguo para justificar las mismas conductas violentas racistas. Estas regulaciones fueron reforzadas por la introducción por las leyes de Jim Crow a finales del siglo diecinueve e inicios del siglo veinte, las cuales legalizaron segregación racial a través de los estados del Sur. Algunos académicos como Michelle Alexander en *The New Jim Crow: Mass Incarceration in the Age of Colorblindess* (New York: New Press, 2012), y cineastas como Ava DuVernay en *The 13th* (Kandoo Films, 2016) han demostrado evidencia innegable que esta parte de la historia no se ha acabado y que sigue en nuestros días de formas de encarcelamiento masivo y políticas racistas.  
 
-[^11]:
+[^11]:Ahora existe un podcast dedicado totalmente a la pregunta de que si algún tipo de tecnología debería existir o no: ver Catarina Fake, “Should This Exist?”, accedido April 3, 2019, https://shouldthisexist.com/.
+
+[^12]:Para aprender más sobre Data for Black Lives, visitar http://d4bl.org/.
+
+[^13]:Ver el reporte de Stop LAPD Spying Coalition, “To Observe and to Suspect”: A People’s Audit of the Los Angeles Police Department’s Special Order 1, Stop LAPD Spying Coalition, April 2, 2013, https://stoplapdspying.org/wp-content/uploads/2013/04/PEOPLES-AUDIT-UPDATED-APRIL-2-2013-A.pdf.
+
+[^14]:Ver Julia Angwin, Jeff Larson, Surya Mattu, and Lauren Kirchner, “Machine Bias,” ProPublica, May 23, 2016,https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing y Adriana Gallardo, “Lost Mothers: How We Collected Nearly 5,000 Stories of Maternal Harm,” ProPublica,March 20,2018, https://www.propublica.org/article/how-we-collected-nearly-5-000-stories-of-maternal-harm. Se discute algoritmos de riesgo en detalle en el capitulo 2 y mortalidad materna en el capitulo 1 de *Data Feminism.*
+
+[^15]:Ver, por ejemplo, Lize Mogel, Walking the Watershed (2016–present), accessed July 23, 2019, http://www.publicgreen.com/projects/watershed.html y Stephanie Dinkins, Not the Only One (2017), accessed July 23, 2019, https://www.stephaniedinkins.com/ntoo.html.
+
+[^16]:La Iniciativa Latinoamericana por los Datos Abiertos (ILDA) ha estado trabajando en un formato de información para recopilar la colección de información sobre femicidios en la región, la cual puede ser accedida aquí: https://idatosabiertos.org/guia-para-protocolizar-procesos-de-identificacion-de-feminicidios/
+
+[^17]:
+

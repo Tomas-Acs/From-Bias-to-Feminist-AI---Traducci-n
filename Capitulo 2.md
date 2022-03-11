@@ -214,12 +214,14 @@ Wernimont, Jacqueline. Numbered Lives: Life and Death in Quantum Media. MIT Pres
 
 [^6]: Con respecto a la segregación, leer Ruha Benjamin, *Race after Technology: Abolitionist Tools for the New Jim Code* (New York: Wiley, 2019). Acerca de la sobre vigilancia, leer Cathy O’Neil, *Weapons of Math Destruction* (New York: Broadway Books, 2016). Acerca de servicios sociales, leer Virginia Eubanks, *Automating Inequality: How High-tech Tools Profile, Police, and Punish the Poor* (New York: St. Martin’s Press, 2018). Para una exploración de como “información cívica” recompila la información para el público, leer Shannon Mattern, “Mission Control: A History of the Urban Dashboard,” Places Journal, March 2015, https://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/.
 
-[^7]:
+[^7]:Para ver evidencia del gato Maine Coon de Catherine llamado n00b, ver https://www.instagram.com/p/BgxGicVhhTW/.
 
-[^8]:
+[^8]:Yoree Koh, “Forget Fingerprints: Car Seat IDs Driver’s Rear End,” *Wall Street Journa*l, January 18, 2012, https://blogs.wsj.com/drivers-seat/2012/01/18/forget-fingerprints-car-seat-ids
+-drivers-rear-end/.
 
-[^9]:
 
-[^10]:
+[^9]:Para más información sobre PredPol, ver https://www.predpol.com/technology/. Sobre la historia racista de la policía, leer Browne, *Dark Matters; Benjamin, Race after Technology; and O’Neil, Weapons of Math Destruction.*
+
+[^10]:“Sobre Nosotros”, PredPol, accedido el 23 de Julio, 2019, https://www.predpol.com/about/. Incluso después de que las ataduras legales de la esclavitud fueron abolidas con la ratificación de la decimotercera enmienda en 1865, la proliferación de códigos “negros” fueron abundantes. Estas leyes fueron permitidas mayoritariamente en el Sur de los Estados Unidos de forma que restringieron a los ciudadanos negros libertad de movimiento, acceso a oportunidades y protección bajo la ley. Algunas de estas leyes fueron desafiadas por el publico y en las cortes, sin embargo, fue un proceso muy difícil desmantelarlas por completo. De hecho, en la mayoría de los estados del Sur, simplemente fueron reemplazadas por regulaciones que usaban lenguaje ambiguo para justificar las mismas conductas violentas racistas. Estas regulaciones fueron reforzadas por la introducción por las leyes de Jim Crow a finales del siglo diecinueve e inicios del siglo veinte, las cuales legalizaron segregación racial a través de los estados del Sur. Algunos académicos como Michelle Alexander en *The New Jim Crow: Mass Incarceration in the Age of Colorblindess* (New York: New Press, 2012), y cineastas como Ava DuVernay en *The 13th* (Kandoo Films, 2016) han demostrado evidencia innegable que esta parte de la historia no se ha acabado y que sigue en nuestros días de formas de encarcelamiento masivo y políticas racistas.  
 
 [^11]:

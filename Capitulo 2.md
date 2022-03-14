@@ -238,3 +238,22 @@ Wernimont, Jacqueline. Numbered Lives: Life and Death in Quantum Media. MIT Pres
 
 [^17]:  Este fenómeno, aunque nuevo a las ciencias de datos, es desafortunadamente muy viejo. En su ahora libro clásico, *Witches, Midwives, and Nurses: A History of Women Healers*, Barbara Ehrenreich y Deirdre English detallan la historia de la obstetricia en los Estados Unidos de América, en el cual parteras con experiencia real fueron reemplazadas por ridículos hombres llenos de teoría después del surgimiento de la medicina formal. El mismo fenómeno se puede presenciar en las cocinas, mujeres realizando este acto, sin compensación alguna mientras los hombres atienden a escuelas culinarias para volverse chefs de celebridad. Ver Barba Ehrenreich y Deirdre English, *Witches, Midwives, and Nurses: A History of Women Healers* (New York: The Feminist Press, [1973] 2010).
 
+[^18]: La bibliografía en este tema es vasta. Obras claves incluyen Beverly Guy-Sheftall,* Words of Fire* (New York: New Press, 1995) y Cherríe Moraga and Gloria E. Anzaldúa, *This Bridge Called My Back: Writings by Radical Women of Color* (London: Persephone Press, 1981). Para leer una antología reciente en este ámbito ver *The Crunk Feminist Collection*, editada por Brittney C. Cooper, Susana M. Morris, y Robin M. Boylorn (New York: Feminist Press, 2017).
+
+[^19]: Usualmente los académicos citan dos de los primeros ensayos legales de Crenshaw para el Genesis del término: “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory, and Antiracist Politics,” University of Chicago Legal Forum 8 (1989): 139–167 y “Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color,” Stanford Law Review 43, no. 6 (1991): 1241–1299.
+
+[^20]: Mientras Crenshaw nombra el concepto, la idea de interseccionalidad tiene una larga historia en el feminismo negro, notablemente el colectivo Combahee River el cual famosamente describió los sistemas de opresión como “interconectados” en “The Combahee River Colelctive Statement”, 1978, Circuitous.org, accessed April 3, 2019, http://circuitous.org/scraps/combahee.html. Los académicos también  han trazado la interseccionalidad como un concepto hasta el siglo diecinueve, trabajo de la académica y activista Anna Julia Cooper, ver Vivian M. May, *“Intellectual Genealogies, Intersectionality*, y Anna Julia Cooper,” en *Feminist Solidarity at the Crossroads: Intersectional Women’s Studies for Transracial Alliance*, editado por Kim Marie Vaz and Gary L. Lemons (New York: Routledge, 2012), 59–71.
+
+[^21]: *Posicionalidad* es un término que describe como individuos llegan a procesos que forman conocimiento desde múltiples posiciones, incluyendo raza, genero, geografía, clase social, habilidades y más. Cada uno de estás posiciones son moldeadas por la cultura y el contexto, y están constantemente intersecando e interactuando. Nosotros, los autores, tenemos una declaración sobre nuestras propias posicionalidades como un apéndice en *Data Feminism*
+
+[^22]:
+
+[^23]: Nosotros discutimos estas demografías y la matriz de dominación que crean y sustentan en detalle en el capitulo 1 de *Data Feminism*
+
+
+[^24]: Notar que lo ultimo es bastante diferente de usar la información para el bien. Exploramos todas estas diferencias en el capitulo 5 de *Data Feminism.*
+
+
+[^25]: Ver bell hooks, *Feminism is for Everybody: Passionate Politics* (New York: Pluto Press, 2000).
+
+

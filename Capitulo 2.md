@@ -236,5 +236,5 @@ Wernimont, Jacqueline. Numbered Lives: Life and Death in Quantum Media. MIT Pres
 
 [^16]:La Iniciativa Latinoamericana por los Datos Abiertos (ILDA) ha estado trabajando en un formato de información para recopilar la colección de información sobre femicidios en la región, la cual puede ser accedida aquí: https://idatosabiertos.org/guia-para-protocolizar-procesos-de-identificacion-de-feminicidios/
 
-[^17]:
+[^17]: .
 

@@ -246,7 +246,7 @@ Wernimont, Jacqueline. Numbered Lives: Life and Death in Quantum Media. MIT Pres
 
 [^21]: *Posicionalidad* es un término que describe como individuos llegan a procesos que forman conocimiento desde múltiples posiciones, incluyendo raza, genero, geografía, clase social, habilidades y más. Cada uno de estás posiciones son moldeadas por la cultura y el contexto, y están constantemente intersecando e interactuando. Nosotros, los autores, tenemos una declaración sobre nuestras propias posicionalidades como un apéndice en *Data Feminism*
 
-[^22]:
+[^22]: En la popular página educacional Everyday Feminism, el artista de comics Robot Hugs explica como se siente la opresión en nivel individual: “[It is] when prejudice and discrimination is supported and encouraged by the world around you. It is when you are harmed or not helped by government, community or society at large because of your identity.” “Having Trouble Explaining Oppression? This Comic Can Do It for You,” January 30, 2017, https://everydayfeminism.com/2017/01/trouble-explaining-oppression/. Ashley Crossman  ofrece una buena explicación sociológica de la opresión en *“What Is Social Oppression,”* ThoughtCo, January 28, 2019, https://www.thoughtco.com/social-oppression-3026593.
 
 [^23]: Nosotros discutimos estas demografías y la matriz de dominación que crean y sustentan en detalle en el capitulo 1 de *Data Feminism*
 

@@ -236,5 +236,5 @@ Wernimont, Jacqueline. Numbered Lives: Life and Death in Quantum Media. MIT Pres
 
 [^16]:La Iniciativa Latinoamericana por los Datos Abiertos (ILDA) ha estado trabajando en un formato de información para recopilar la colección de información sobre femicidios en la región, la cual puede ser accedida aquí: https://idatosabiertos.org/guia-para-protocolizar-procesos-de-identificacion-de-feminicidios/
 
-[^17]: .
+[^17]:  Este fenómeno, aunque nuevo a las ciencias de datos, es desafortunadamente muy viejo. En su ahora libro clásico, *Witches, Midwives, and Nurses: A History of Women Healers*, Barbara Ehrenreich y Deirdre English detallan la historia de la obstetricia en los Estados Unidos de América, en el cual parteras con experiencia real fueron reemplazadas por ridículos hombres llenos de teoría después del surgimiento de la medicina formal. El mismo fenómeno se puede presenciar en las cocinas, mujeres realizando este acto, sin compensación alguna mientras los hombres atienden a escuelas culinarias para volverse chefs de celebridad. Ver Barba Ehrenreich y Deirdre English, *Witches, Midwives, and Nurses: A History of Women Healers* (New York: The Feminist Press, [1973] 2010).
 

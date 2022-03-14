@@ -232,7 +232,7 @@ Wernimont, Jacqueline. Numbered Lives: Life and Death in Quantum Media. MIT Pres
 
 [^14]:Ver Julia Angwin, Jeff Larson, Surya Mattu, and Lauren Kirchner, “Machine Bias,” ProPublica, May 23, 2016,https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing y Adriana Gallardo, “Lost Mothers: How We Collected Nearly 5,000 Stories of Maternal Harm,” ProPublica,March 20,2018, https://www.propublica.org/article/how-we-collected-nearly-5-000-stories-of-maternal-harm. Se discute algoritmos de riesgo en detalle en el capitulo 2 y mortalidad materna en el capitulo 1 de *Data Feminism.*
 
-[^15]:Ver, por ejemplo, Lize Mogel, Walking the Watershed (2016–present), accessed July 23, 2019, http://www.publicgreen.com/projects/watershed.html y Stephanie Dinkins, Not the Only One (2017), accessed July 23, 2019, https://www.stephaniedinkins.com/ntoo.html.
+[^15]:Ver, por ejemplo, Lize Mogel, Walking the Watershed (2016–present), accessed July 23, 2019, http://www.publicgreen.com/projects/watershed.html y Stephanie Dinkins, Not the Only One (2017), accessed July 23, 2019, https://www.stephaniedinkins.com/ntoo.html.  
 
 [^16]:La Iniciativa Latinoamericana por los Datos Abiertos (ILDA) ha estado trabajando en un formato de información para recopilar la colección de información sobre femicidios en la región, la cual puede ser accedida aquí: https://idatosabiertos.org/guia-para-protocolizar-procesos-de-identificacion-de-feminicidios/
 

@@ -76,6 +76,7 @@ Challenge power. Data feminism commits to challenging unequal power structures a
 
 Desafiar el poder. El feminismo de datos se compromete a desafiar las estructuras de poder desiguales y a trabajar por la justicia.
 
+![elevate](https://user-images.githubusercontent.com/70679118/159993619-12433bbe-6ffb-4aa8-bd01-ceadad51399c.PNG)
 
 ![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InprZjJjNG1tLzcxNjI5ODE2MjkxMzY5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299578-de7d254c-2f59-40ec-867b-f1ebdc2391c4.jpg)
 
@@ -83,6 +84,7 @@ Elevate emotion and embodiment. Data feminism teaches us to value multiple forms
 
 Elevar la emoción y la corporalidad. El feminismo de datos nos enseña a valorar múltiples formas de conocimiento, incluyendo los conocimientos de las personas en su carácter de cuerpos vivos y sensibles en el mundo.
 
+![rethink](https://user-images.githubusercontent.com/70679118/159993641-9fcd18c0-9386-493b-bded-65c2e62ac541.PNG)
 
 ![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InRwaWZqYTFqLzMxNjI5ODE2MjkxMzc4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/156299651-47e0bc2b-6de3-40ef-92c1-346c0a5496b2.jpg)
 

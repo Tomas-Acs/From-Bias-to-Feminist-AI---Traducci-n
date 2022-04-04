@@ -25,3 +25,15 @@ Es importante hacer notar que las mujeres y niñas pueden y son una forma de dar
 Estamos en un punto de inflección.  
 
 # El Paisaje
+
+## Parcialidad de género en los algoritmos y decisiones automáticas  
+
+
+### Parcialidad inherente al contratar
+
+Para optimizar los recursos humanos Amazon creo un algoritmo derivado de 10 años de currículos enviados a Amazon. Usó información comparada con el equipo de alto rendimiento, principalmente de hombres, de ingeniería. Este algoritmo se le enseño como reconocer patrones de palabras, en lugar de habilidades importantes en los currículos, y al ver que históricamente los hombres eran contratados y promovidos, el algoritmo se enseño a si mismo a penalizar cualquier resumen que incluyera la palabra “mujeres”, por ejemplo “capitana del equipo de ajedrez de mujeres” en el texto y degradar resúmenes de mujeres que hubieran ido a “universidades de mujeres” [^3]. Esto se debe a que la información con la que se entrenó el algoritmo contiene parcialidad o discriminación histórica, crea un bucle donde el aprendizaje automático absorbe esta parcialidad y lo replica, incorporándolo a decisiones futuras, y hace que esta parcialidad implícita se vuelva una realidad explicita. [^4]  
+ 
+ A pesar de múltiples intentos fracasados de arreglar el algoritmo y quitarle la parcialidad, la cual se asumió que iba a ser un simple arreglo técnico, Amazon eventualmente desecho el algoritmo en su totalidad ya que la parcialidad estaba demasiado arraigada en los procesos de reclutamiento anteriores. Esta parcialidad estaba profundamente implícita en la información en la cual el algoritmo se entrenó y el aprendizaje automático del sistema ADM no pudo “desaprenderlo” [^5]. En el 2017, Amazon abandonó el proyecto y compartió su información y experiencia con el público por Reuters.   
+ 
+ La Inteligencia Artificial permea los procesos modernos de reclutamiento desde web crawlers para identificar y atraer a candidatos favoritos a través de sistemas de rastreo de aplicantes, curadores de currículos, evaluaciones clásicas, entrevistas automatizada, análisis de entrevistas y sistemas de calificación de candidatos. Un reporte reciente estima que el 99% de las compañías del Fortune 500 utilizan sistemas de rastreo de aplicantes de algún tipo en sus procesos de reclutamiento [^6]. La AI está esperada que reemplace el 16% de los trabajos de recursos en los próximos diez años [^7], lo cual significa que la dependencia multinacional de este tipo de software y procesos y accesos a la información (o la falta de) va a estar en crecimiento. 
+ 

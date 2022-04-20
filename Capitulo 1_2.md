@@ -6,6 +6,26 @@ Por [Abhishek Mandal](https://feministai.pubpub.org/user/abhishek-mandal)
 
 ---
 
+## 1.	¿De donde viene el sesgo en la inteligencia artificial?
+
+¿Por qué los sistemas de AI son sesgados? ¿Están diseñado para serlos o es una falla inintencional del sistema? 
+
+Una respuesta de alto nivel a esta pregunta sería – ya que hay sesgo en la sociedad humana, hay sesgo en la AI. Redes neuronales profundas (Deep neural networks o DNNs), las cuales hacen que las aplicaciones más increíbles de AI sean posibles tales como la voz de Apple Siri y el cerebro que puede navegar por si mismo del ultimo robot de marte de la NASA, son de hecho representaciones matemáticas del cerebro humano. Los DNNs están hechos de múltiples capas de neuronas las cuales están basadas en la neurona biológica. De la misma manera, las similitudes entre humanos y AI son más que esperados.  
+
+Así que, ¿el diseño de la AI es responsable de estos sesgos? La respuesta es si y no.  Una recién creada red neuronal es como un recién nacido. Necesita ser entrenada. Para esto, la red neuronal es expuesta a información del mundo real. Por ejemplo, las redes neuronales usadas para aplicaciones de visión como las usadas en los carros de Tesla. Justo como un niño es ensaño a reconocer objetos usando imágenes etiquetadas, una red neuronal es “alimentada” imágenes etiquetadas del mundo real. Aquí es donde el problema del sesgo inicia. Las imágenes muchas veces son buscadas usando motores de búsqueda como Google. Ahora, estos resultados muchas veces muestran sesgos presentes en el mundo real. Por ejemplo, resultados para el término “enfermera” retorna imágenes mayoritariamente de mujeres mientras que el término “CEO” retorna imágenes primordialmente de hombres. Esto refleja el sesgo prevalente de genero en nuestra sociedad. De la misma manera, los DNNs aprenden estos sesgos y es reflejado en la AI de nuestros sistemas.   
+
+De la misma manera que un niño aprende a reconocer objetos con imágenes etiquetadas, una red neuronal es “alimentada” con imágenes del mundo real. Aquí es donde el problema del sesgo inicia.  
+
+La creación de sistemas de AI o modelos usualmente consisten de cinco pasos: buscando y resumiendo la información de entrenamiento, creando la base de datos de entrenamiento, creando la red neuronal, entrenando y evaluando la red neuronal y finalmente desplegándola. Estudios han mostrado que hay un grado para acumular o amplificar el sesgo en cada uno de estos pasos. Esto está normalmente referido como la propagación de sesgos. En las próximas secciones vamos a explorar el origen, la acumulación y la amplificación de sesgos sociales en la AI.  
+
+## 2. El origen del sesgo: nuestra sociedad
+
+
+Las redes artificiales neuronales (ANNs), las cuales son usadas para muchas aplicaciones de inteligencia artificial como asistentes de voz, carros que se manejan solos y sistemas de traducción automático, entre otros, están modelados semejantes al cerebro humano. Cuando se crean, las ANNs se parecen a un recién nacido. De la misma manera que un bebe tiene que aprender, un ANNs necesita ser entrenado. Esto requiere cantidades masivas de información y del repositorio más grande de información en el internet.  
+
+La mejor manera es dejar a redes no entradas entrenar en cantidades de información masiva, así puede aprender de patrones en la información. Sin embargo, el problema es que la información es normalmente tan grande que es imposible fijarse si hay sesgo en ella. Como resultado, los patrones aprendidos por la red pueden muchas veces llevar a un resultado sesgado. Por ejemplo considerar el ejemplo de GPT 2, un sistema de texto generativo el cual predice oraciones y párrafos con unas pocas palabras como entrada. GPT 2 fue entrenado con texto de la red social Reddit. Aquí hay unos ejemplos de texto generado por GPT 2.  
+
+
 ## Referencias
 
 "Apple's 'Sexist' Credit Card Investigated By US Regulator". BBC News, November 11,2019. https://www.bbc.com/news/business-50365609#:~:text=A%20US%20financial%20regulator%20has,be%20inherently%20biased%20against%20women.&text=But%2010x%20on%20the%20Apple%20Card.

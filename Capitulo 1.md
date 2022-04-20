@@ -147,7 +147,9 @@ Raji, Inioluwa Deborah, and Joy Buolamwini. ‘Actionable Auditing
 [^26]:Sheng, Emily, Kai-Wei Chang, Premkumar Natarajan, and Nanyun Peng. ‘The Woman Worked as a Babysitter: On Biases in Language Generation’. ArXiv:1909.01326 [Cs], 23 October 2019. http://arxiv.org/abs/1909.01326.
 [^27]:McLuhan, Marshall. Understanding Media: The Extensions of Man. Routledge, 1994.
 [^28]:Chivers, Tom. ‘What Do We Do about Deepfake Video?’, 23 June 2019, sec. Technology. http://www.theguardian.com/technology/2019/jun/23/what-do-we-do-about-deepfake-video-ai-facebook.
-[^29]:
+[^29]:DeepNude utilizaba fotos de una persona con ropa y creaba una nueva imagen de la misma persona desnuda. Cambiaba ropa por senos y vulva y solo funcionaba en fotos de mujeres. Cuando Motherboard (una plataforma de publicaciones multimedia) intentó usar la foto de un hombre, cambió sus pantalones por una vulva. Cole, Samantha. ‘Deepnude: The Horrifying App Undressing Women’. Vice.Accessed16March 2021. https://www.vice.com/en/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman.
+Mahdawi, Arwa. ‘An App Using AI to “undress” Women Offers a Terrifying Glimpse into the Future’. the Guardian, 29 June 2019. http://www.theguardian.com/commentisfree/2019/jun/29/deepnude-app-week-in-patriarchy-women.
+
 [^30]:Cox, Joseph. ‘Twitter Pushed Adverts for Spyware to Monitor Girlfriends’. VICE. Accessed 16 March 2021. https://www.vice.com/en/article/3k3wx5/twitter-pushed-adverts-for-spyware-to-track-girlfriends.
 [^31]:Hao, Karen. ‘An AI Saw a Cropped Photo of AOC. It Autocompleted Her Wearing a Bikini. | MIT Technology Review’. MIT Technology Review, 29 January 2021. https://www.technologyreview.com/2021/01/29/1017065/ai-image-generation-is-racist-sexist/.
 [^32]:Solsman, Joan E. ‘A Deepfake Bot Is Creating Nudes out of Regular Photos’. CNET, 22 October 2020. https://www.cnet.com/news/deepfake-bot-on-telegram-is-violating-women-by-forging-nudes-from-regular-pics/.

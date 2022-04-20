@@ -43,7 +43,12 @@ Otra fuente popular de entrenamiento de modelos de lenguajes es Wikipedia – la
 
 Un estudio reciente [^2] analizó el sesgo de género en Wikipedia. Encontró que solo el 17% de más de un 1.4 millones de biografías en Wikipedia pertenecen a una mujer. Los hombres tenían un numero mucho más grande biografías en todos los ámbitos de trabajo (tales como deporte, ciencias, arte, etc..) excepto uno, modelado. Un estudio comparativo de dos biografías de dos actores, encontró que la biografía del autor masculino consistía de palabras relacionadas a sus logros mientras que la biografía de la actriz femenina contenía palabras describiendo su sexualidad y matrimonio.  
 
- 
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InlhdzgzcnU1LzAxNjI0Mzc2MzAxODczLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164175186-5f541163-07e1-44df-885d-bf1d976c7b43.png)
+
+ ![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InBheDZwenB4LzAxNjI0Mzc2MzAxODc2LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164175199-b9263e39-c802-479d-97d2-bb43f28d41c9.png)
+
+Top de palabras claves para hombres y mujeres según Wikipedia. Fuente: wiki-gender
 
 ## Referencias
 

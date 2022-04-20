@@ -136,20 +136,20 @@ Raji, Inioluwa Deborah, and Joy Buolamwini. ‘Actionable Auditing
 [^16]:Más del 45% de las imágenes de ImageNet vienen de los Estados Unidos, hogar de solo un 4% de la población mundial. Por el contrario, China e India, juntos representan 36% de la población mundial, solo contribuyen un 3% a las imágenes de ImageNet. Zou, James, and Londa Schiebinger. ‘AI Can Be Sexist and Racist — It’s Time to Make It Fair’. Nature 559, no. 7714 (July 2018): 324–26. https://doi.org/10.1038/d41586-018-05707-8.
 
 [^17]:Song, Victoria. ‘MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content’. Gizmodo, 7 February 2020. https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206.
-[^18]:
-[^19]:
-[^20]:
-[^21]:
-[^22]:
-[^23]:
-[^24]:
-[^25]:
-[^26]:
-[^27]:
-[^28]:
+[^18]:Los investigadores miraron a ImSitu, creado por la universidad de Washington y COCO, inicialmente coordinado por Microsoft y ahora copatrocinado por Facebook y el emprendimiento MightyAI. Cada colección contiene más de 100,00 imágenes de imágenes complejas sacas del internet, etiquetadas con descripciones. Zhao, Jieyu, Tianlu Wang, Mark Yatskar, Vicente Ordonez, and Kai-Wei Chang. ‘Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-Level Constraints’. ArXiv:1707.09457 [Cs, Stat], 28 July 2017. http://arxiv.org/abs/1707.09457
+[^19]:Investigadores miraron las top 100 resultados de imágenes para 45 trabajos diferentes. Después compararon el desglose de genero de los resultados contra datos reales del Bureau of Labor Statistics para cada trabajo. Kay, Matthew, Cynthia Matuszek, and Sean A. Munson. ‘Unequal Representation and Gender Stereotypes in Image Search Results for Occupations’. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems, 3819–28. CHI ’15. New York, NY, USA: Association for Computing Machinery, 2015. https://doi.org/10.1145/2702123.2702520.
+[^20]:Bolukbasi, Tolga, Kai-Wei Chang, James Zou, Venkatesh Saligrama, and Adam Kalai. ‘Man Is to Computer Programmer as Woman Is to Homemaker? Debiasing Word Embeddings’. ArXiv:1607.06520 [Cs, Stat], 21 July 2016. http://arxiv.org/abs/1607.06520.
+[^21]:Ibid
+[^22]:Zou, J. and Schiebinger, L. (2018).
+[^23]:Olson, Parmy. ‘The Algorithm That Helped Google Translate Become Sexist’. Forbes, sec. Tech. Accessed 16 March 2021. https://www.forbes.com/sites/parmyolson/2018/02/15/the-algorithm-that-helped-google-translate-become-sexist/.
+[^24]:UNESCO. ‘I’d Blush If I Could: Closing Gender Divides in Digital Skills through Education’. UNESCO, 18 March 2019. https://en.unesco.org/Id-blush-if-I-could.
+[^25]:UN Women. ‘UN Women Ad Series Reveals Widespread Sexism’, 21 October 2013. https://www.unwomen.org/en/news/stories/2013/10/women-should-ads.
+[^26]:Sheng, Emily, Kai-Wei Chang, Premkumar Natarajan, and Nanyun Peng. ‘The Woman Worked as a Babysitter: On Biases in Language Generation’. ArXiv:1909.01326 [Cs], 23 October 2019. http://arxiv.org/abs/1909.01326.
+[^27]:McLuhan, Marshall. Understanding Media: The Extensions of Man. Routledge, 1994.
+[^28]:Chivers, Tom. ‘What Do We Do about Deepfake Video?’, 23 June 2019, sec. Technology. http://www.theguardian.com/technology/2019/jun/23/what-do-we-do-about-deepfake-video-ai-facebook.
 [^29]:
-[^30]:
-[^31]:
-[^32]:
-[^33]:
-[^34]:
+[^30]:Cox, Joseph. ‘Twitter Pushed Adverts for Spyware to Monitor Girlfriends’. VICE. Accessed 16 March 2021. https://www.vice.com/en/article/3k3wx5/twitter-pushed-adverts-for-spyware-to-track-girlfriends.
+[^31]:Hao, Karen. ‘An AI Saw a Cropped Photo of AOC. It Autocompleted Her Wearing a Bikini. | MIT Technology Review’. MIT Technology Review, 29 January 2021. https://www.technologyreview.com/2021/01/29/1017065/ai-image-generation-is-racist-sexist/.
+[^32]:Solsman, Joan E. ‘A Deepfake Bot Is Creating Nudes out of Regular Photos’. CNET, 22 October 2020. https://www.cnet.com/news/deepfake-bot-on-telegram-is-violating-women-by-forging-nudes-from-regular-pics/.
+[^33]:McLuhan, M. (1964).
+[^34]:Schiebinger, Londa, and ineke klinge. ‘Gendered Innovations: How Gender Analysis Contributes to Research’. “Innovation through Gender. EUROPEAN COMMISSION, 2013. https://ec.europa.eu/research/science-society/document_library/pdf_06/gendered_innovations.pdf.

@@ -23,7 +23,14 @@ Los sistemas de inteligencia artificial han sido heraldos de herramientas para p
 
 “*El principio más crítico es asegurarse que los sistemas de AI están trabajando para desafiar la desigualdad, incluyendo la desigualdad perpetuada por sistemas patriarcales, racistas y capitalistas.*”  
 
- El principio más crítico es asegurarse que los sistemas de AI están trabajando para desafiar la desigualdad, incluyendo la desigualdad perpetuada por sistemas patriarcales, racistas y capitalistas. Al alinearse con los principios feministas significa que los sistemas que **no** están alineados con estos sistemas como aquellos que mejoran la capacidad del estado para espiar y utilizar fuerzas policiales serían inmediatamente excluidos. Sistemas que están diseñados para excluir y oprimir no podrían trabajar para alcanzar las metas feministas, incluso si se integrara otros principios progresistas como la información interseccional o arquitectura dinámica (la cual permitiría a los usuarios participar y salirse fácilmente).   
+ El principio más crítico es asegurarse que los sistemas de AI están trabajando para desafiar la desigualdad, incluyendo la desigualdad perpetuada por sistemas patriarcales, racistas y capitalistas. Al alinearse con los principios feministas significa que los sistemas que **no** están alineados con estos sistemas como aquellos que mejoran la capacidad del estado para espiar y utilizar fuerzas policiales serían inmediatamente excluidos. Sistemas que están diseñados para excluir y oprimir no podrían trabajar para alcanzar las metas feministas, incluso si se integrara otros principios progresistas como la información interseccional o arquitectura dinámica consensuada (la cual permitiría a los usuarios participar y salirse fácilmente).   
+ 
+ *Sistemas que están diseñados para excluir y oprimir no podrían trabajar para alcanzar las metas feministas, incluso si se integrara otros principios progresistas como la información interseccional o arquitectura dinámica consensuada.*  
+
+Debemos trabajar en disminuir la desigualdad social y alcanzar resultados de igualdad a través de la práctica. A pesar de que hay explícitamente proyectos feministas que producen mejores bases de datos o piden mecanismos más participatorios, los cuales claramente utilizan este principio, yo argumentaría que también es practicado por cualquier proyecto que busca aumentar los principios feministas. Por ejemplo, proyectos de AI que buscan reducir el discurso de odio y la desinformación en línea.  Dado que las mujeres y otros grupos marginalizados son muy frecuentemente los afectados de la violencia, este trabajo puede clasificarse como feminista incluso si no busca como objetivo arreglar la violencia de genero.  
+
+Toda la tecnología esta relacionada con las relaciones sociales. Al practicar los principios feministas en los diseños de AI, esto funciona para diseñar mejores y sistemas mas robustos. **Practicantes feministas pueden movilizar estos principios para asegurarse un futuro con AI inclusivo, que todos seamos dueños, participativo y combinado con cambios colectivos a los sistemas de dominación.**
+
 
 
 

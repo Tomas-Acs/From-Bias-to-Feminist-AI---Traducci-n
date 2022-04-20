@@ -7,7 +7,9 @@ Traducción de los artículos [From Bias to Feminist AI](https://feministai.pubp
   * [Nosotros formamos nuestras herramientas de la misma manera que nuestras herramientas nos forman](Capitulo%201.md)
   * [Los orígenes algorítmicos del sesgo](https://github.com/labexp/From-Bias-to-Feminist-AI-Traduccion/blob/main/Capitulo%201_2.md)
   * [Practicando principios feministas en el diseño de Inteligencia Artificial](https://github.com/labexp/From-Bias-to-Feminist-AI-Traduccion/blob/main/Capitulo%201_3.md)
-* [Capitulo 2: Introducción al Feminismo de Datos](Capitulo%202.md)
+* Capitulo 2
+   * [Introducción al Feminismo de Datos](Capitulo%202.md)
+   
 
 
 ## Mantenedores

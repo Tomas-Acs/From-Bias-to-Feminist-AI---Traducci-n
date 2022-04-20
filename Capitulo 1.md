@@ -113,23 +113,29 @@ Zhao, Jieyu, Tianlu Wang, Mark Yatskar, Vicente Ordonez, and Kai-Wei Chang. ‘M
 
 
 
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]:
-[^11]:
-[^12]:
-[^13]:
-[^14]:
-[^15]:
-[^16]:
-[^17]:
+[^1]: Las mujeres han estado históricamente y continuamente excluidas durante el siglo 20 de pruebas de drogas, estándares internacionales y reglas de comercio internacional. Ahora para los algoritmos de decisión del siglo 21 - Liu, Katherine A., and Natalie A. Dipietro Mager. ‘Women’s Involvement in Clinical Trials: Historical Perspective and Future Implications’. Pharmacy Practice 14, no. 1 (2016). https://doi.org/10.18549/PharmPract.2016.01.708.; Gonzalez, Anabel. ‘What’s Challenging Women as They Seek to Trade and Compete in the Global Economy’. World Bank Blogs (blog), 17 July 2017. https://blogs.worldbank.org/trade
+Perez, Caroline Criado. Invisible Women: Data Bias in a World Designed for Men. First Printing edition. New York: Harry N. Abrams, 2019; Perez, Caroline Criado ‘The Deadly Truth about a World Built for Men – from Stab Vests to Car Crashes’. the Guardian, 23 February 2019. http://www.theguardian.com/lifeandstyle/2019/feb/23/truth-world-built-for-men-car-crashes.  
+
+[^2]: El consejo de investigación global define la interseccionalidad como la naturaleza interconectada de las categorías sociales como raza, clase y genero se aplican a cierto individuo o grupo, considerado como la creación de sistemas interdependientes y que se entrelazan de discriminación y desventaja. Global Research Council. Supporting Women in Research. Policies, Programs and Initiatives Undertaken by Public Research Funding Agencies. Accessed 16 March 2021. https://www.globalresearchcouncil.org/about/gender-working-group/.
+
+[^3]: Dastin, Jeffrey. ‘Amazon Scraps Secret AI Recruiting Tool That Showed Bias against Women’. Reuters, 10 October 2018. https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G.
+[^4]:Sangokoya, David. ‘ALGORITHMIC ACCOUNTABILITY Applying the Concept to Different Country Contexts’. World Wide Web Foundation, July 2017. https://webfoundation.org/docs/2017/07/Algorithms_Report_WF.pdf.
+[^5]:Dastin, J. (2018)
+[^6]:Qu, Linda. ‘Report: 99% of Fortune 500 Companies Use Applicant Tracking Systems’. Jobscan (blog), 7 November 2019. https://www.jobscan.co/blog/99-percent-fortune-500-ats/.
+
+Raji, Inioluwa Deborah, and Joy Buolamwini. ‘Actionable Auditing
+[^7]:Forbes Coaches Council. ‘Council Post: 10 Ways Artificial Intelligence Will Change Recruitment Practices’. Forbes, 10 August 2018, sec. Leadership. https://www.forbes.com/sites/forbescoachescouncil/2018/08/10/10-ways-artificial-intelligence-will-change-recruitment-practices/.
+[^8]:Ali, Muhammad, Piotr Sapiezynski, Miranda Bogen, Aleksandra Korolova, Alan Mislove, and Aaron Rieke. ‘Discrimination through Optimization: How Facebook’s Ad Delivery Can Lead to Skewed Outcomes’. Proceedings of the ACM on Human-Computer Interaction 3, no. CSCW (7 November 2019): 1–30. https://doi.org/10.1145/3359301.
+[^9]:Scheiber, Noam. ‘Facebook Accused of Allowing Bias Against Women in Job Ads - The New York Times’. New York Times, 18 September 2018. https://www.nytimes.com/2018/09/18/business/economy/facebook-job-ads.html.
+[^10]:Merrill, Jeremy B. ‘Facebook’s Algorithm Makes Some Ads Discriminatory—All on Its Own’. Quartz. Accessed 16 March 2021. https://qz.com/1588428/new-research-suggests-facebooks-algorithm-may-be-discriminatory/.
+[^11]:Facebook ha tomado ciertas accionas para tratar de arreglar el problema a través de la “certificación propia”. Por más de un año, requirió que cualquiera que hiciera anuncios marcara una cajilla que decía que sus anuncios se quedarían dentro de las marcas legales. Scheiber, Noam, and Mike Isaac. ‘Facebook Halts Ad Targeting Cited in Bias Complaints - The New York Times’. New York Times, 19 March 2019. https://www.nytimes.com/2019/03/19/technology/facebook-discrimination-ads.html.
+[^12]:Merrill, Jeremy B. ‘Facebook’s Algorithm Makes Some Ads Discriminatory—All on Its Own’. Quartz. Accessed 16 March 2021. https://qz.com/1588428/new-research-suggests-facebooks-algorithm-may-be-discriminatory/.
+[^13]:Tobin, Ariana, and Jeremy B. Merrill. ‘Facebook Is Letting Job Advertisers Target Only Men’. ProPublica, 18 September 2018. https://www.propublica.org/article/facebook-is-letting-job-advertisers-target-only-men?token=xbvF5KLcDIV6vr6B2AF9D0LlUK_IwLni
+[^14]:Raji, Inioluwa Deborah, and Joy Buolamwini. ‘Actionable Auditing: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products’. In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, 429–35. AIES ’19. New York, NY, USA: Association for Computing Machinery, 2019. https://doi.org/10.1145/3306618.3314244.
+[^15]:Hardesty, Larry. ‘Study Finds Gender and Skin-Type Bias in Commercial Artificial-Intelligence Systems’. MIT News | Massachusetts Institute of Technology, 11 February 2018. https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212.
+[^16]:Más del 45% de las imágenes de ImageNet vienen de los Estados Unidos, hogar de solo un 4% de la población mundial. Por el contrario, China e India, juntos representan 36% de la población mundial, solo contribuyen un 3% a las imágenes de ImageNet. Zou, James, and Londa Schiebinger. ‘AI Can Be Sexist and Racist — It’s Time to Make It Fair’. Nature 559, no. 7714 (July 2018): 324–26. https://doi.org/10.1038/d41586-018-05707-8.
+
+[^17]:Song, Victoria. ‘MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content’. Gizmodo, 7 February 2020. https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206.
 [^18]:
 [^19]:
 [^20]:

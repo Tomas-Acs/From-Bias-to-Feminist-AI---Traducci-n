@@ -2,6 +2,7 @@
 Traducción de los artículos [From Bias to Feminist AI](https://feministai.pubpub.org/from-bias-to-feminist-ai).
 
 ## Tabla de contenido
+* [Introducción](https://github.com/labexp/From-Bias-to-Feminist-AI-Traduccion/blob/main/Introducci%C3%B3n.md)
 * Capítulo 1
   * [Nosotros formamos nuestras herramientas de la misma manera que nuestras herramientas nos forman](Capitulo%201.md)
 * [Capitulo 2: Introducción al Feminismo de Datos](Capitulo%202.md)

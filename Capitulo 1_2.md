@@ -92,9 +92,15 @@ El surgimiento de las redes sociales y el fácil acceso al internet y las tecnol
 Las bases de datos son una buena manera de organizar y etiquetar información. Inicialmente bases de datos publicas eran creadas por universidades (tales como ImageNet) pero últimamente, la industria también se está incorporando al ámbito (bases de datos como COCO por Microsoft y YFGG100M por Yahoo! y Flickr). Sin embargo, estas bases de datos no están libres de sesgo. Estudios [^7] [^8] [^9] han mostrado que muchas de las bases de datos populares tienen varios sesgos sociales. Esto puede ir desde la falta de diversidad en imágenes hasta etiquetas racistas y sexistas en imágenes.  
 
 
+### Las diferentes caras del sesgo
+
+Uno de los mayores problemas con estas bases de datos es que no son suficientemente diversas, especialmente en términos de rostros humanos. Las bases de datos de imágenes más populares están fuertemente sesgadas a favor de rostros de personas blancas [^10]. Cuando estas bases de datos son usadas para entrenar modelos de visión para computadoras, fallan en rostros de grupos minoritarios [^11]. Esto puede tener serias consecuencias en estos modelos ya que son utilizados para reconocimiento facial por agencias de seguridad. De hecho, muchas tecnologías de reconocimiento fácil han repetidamente mal identificado rostros de personas negras. Sistemas de reconocimiento facial comerciales han sido encontrados de mal identificar cinco veces más los rostros de personas negras que de personas blancas [^12].  
 
 
 
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Im15Mm1sZ3g0LzExNjI0Mzc2MzAxODc2LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164539270-a18516ed-fb7d-414f-8fb0-df21e1122756.png)
+
+Composición racial en varias bases de datos. Notar: Las razas han sido definidas por Karkainen & Joo
 
 
 
@@ -147,3 +153,9 @@ Recke, Martin. 2021. "Why Imagination And Creativity Are Primary Value Creators 
 [^8]:Wang, Angelina, Arvind Narayanan, and Olga Russakovsky. 2020. "REVISE: A Tool For Measuring And Mitigating Bias In Visual Datasets". Computer Vision – ECCV 2020, 733-751. doi:10.1007/978-3-030-58580-8_43.
 
 [^9]:Celis, L. Elisa, and Vijay Keswani. 2020. "Implicit Diversity In Image Summarization". Proceedings Of The ACM On Human-Computer Interaction 4 (CSCW2): 1-28. doi:10.1145/3415210.
+
+[^10]:Karkkainen and Joo, “Fair Face”.
+
+[^11]:Simonite, “When Ai sees a man”.
+
+[^12]:Simonite, “When Ai sees a man”.

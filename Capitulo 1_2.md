@@ -77,7 +77,11 @@ Resultados de Google para "enfermero" y "profesor"
 Los resultados de las imágenes refuerzan patrones de sesgo de género, los cuales son aprendidos por ANNs, lo cual lleva a AI sesgado. Un ejemplo sería el servicio de reconocimiento de imágenes de Google, el cual cuando se le presenta la imagen de un hombre y una mujer y en ambientes similares, identifica al hombre como un hombre de negocios, oficial y traje mientras que la mujer la identifica con barbilla, corte de pelo y sonrisa [^4].  
 
 
-![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InAwbmcyeTJrLzAxNjI0Mzc2MzAxODc4LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164534665-f4e5faf3-2266-4058-a8d0-0054a3fe3164.png)
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InAwbmcyeTJrLzAxNjI0Mzc2MzAxODc4LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164534665-f4e5faf3-2266-4058-a8d0-0054a3fe3164.png)  
+
+Servicio de reconocimiento de imágenes de Google [^5]  
+
+
 
 
 
@@ -120,3 +124,6 @@ Recke, Martin. 2021. "Why Imagination And Creativity Are Primary Value Creators 
 [^3]:Kypraiou, “Wikigender.”
 
 [^4]:Simonite, Tom. 2021. "When AI Sees A Man, It Thinks 'Official.' A Woman? 'Smile'". Wired. https://www.wired.com/story/ai-sees-man-thinks-official-woman-smile/.
+
+[^5]: Simonite, “When Ai sees a man”.
+

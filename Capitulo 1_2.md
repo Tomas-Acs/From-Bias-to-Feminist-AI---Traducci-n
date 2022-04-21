@@ -81,6 +81,19 @@ Los resultados de las imágenes refuerzan patrones de sesgo de género, los cual
 
 Servicio de reconocimiento de imágenes de Google [^5]  
 
+Los constructos sociales de género, raza y poder son visibles a través del internet, desde foros como Reddit hasta enciclopedias como Wikipedia. Están extendidos a través del internet en petabytes de información. Cuando un ANNs, el cual está diseñado para aprender patrones en la información, son entrenados con este tipo de información, rápidamente aprenden estos sesgos. Para la pregunta, ¿Por qué hay sesgo en el AI? La respuesta es porque hay sesgo en nuestra sociedad.  
+
+## El fallo en nuestras bases de datos
+
+Modelos de aprendizaje profundo requieren cantidades masivas de información para su entrenamiento. Una de las razones del incremento de la eficiencia y del éxito de la inteligencia artificial en la segunda década del siglo veintiuno es la disponibilidad de grandes volúmenes de información, mayoritariamente al surgimiento del internet.  
+
+El surgimiento de las redes sociales y el fácil acceso al internet y las tecnologías de telecomunicación a través del mundo ha creado una afluencia masiva de imágenes, audio, video, texto, etc. Alrededor de 2.5 quintillones de bytes según IBM [^6].Sin embargo, esta información esta sucia, por ejemplo, esta desorganizada, sin etiquetas y llena de ruido. Por lo tanto, es importante crear información limpia y ordenada de este grupo de información desordenada para que los modelos de AI puedan aprender de ella. Esto es logrado mediante el uso de bases de datos.  
+
+Las bases de datos son una buena manera de organizar y etiquetar información. Inicialmente bases de datos publicas eran creadas por universidades (tales como ImageNet) pero últimamente, la industria también se está incorporando al ámbito (bases de datos como COCO por Microsoft y YFGG100M por Yahoo! y Flickr). Sin embargo, estas bases de datos no están libres de sesgo. Estudios [^7] [^8] [^9] han mostrado que muchas de las bases de datos populares tienen varios sesgos sociales. Esto puede ir desde la falta de diversidad en imágenes hasta etiquetas racistas y sexistas en imágenes.  
+
+
+
+
 
 
 
@@ -127,3 +140,8 @@ Recke, Martin. 2021. "Why Imagination And Creativity Are Primary Value Creators 
 
 [^5]: Simonite, “When Ai sees a man”.
 
+[^6]: Milenkovic, Jovan. 2021. "30 Eye-Opening Big Data Statistics For 2020: Patterns Are Everywhere". Kommandotech. https://kommandotech.com/statistics/big-data-statistics/.
+
+[^7]:
+[^8]:
+[^9]:

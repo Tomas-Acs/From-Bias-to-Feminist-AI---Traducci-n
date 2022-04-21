@@ -100,7 +100,11 @@ Uno de los mayores problemas con estas bases de datos es que no son suficienteme
 
 ![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Im15Mm1sZ3g0LzExNjI0Mzc2MzAxODc2LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164539270-a18516ed-fb7d-414f-8fb0-df21e1122756.png)
 
-Composición racial en varias bases de datos. Notar: Las razas han sido definidas por Karkainen & Joo
+Composición racial en varias bases de datos. Notar: Las razas han sido definidas por Karkainen & Joo [^13]
+
+Pero la información en si misma no es solo lo único que está susceptible al sesgo. Las etiquetas que ayudan a identificar la información están sujetas a sesgos humanos también. La información, después de recolectarla, es etiquetada manualmente. Esto es generalmente hecho por servicios de colaboración colectiva como Amazon Mechanical Turks (AMT). Sin embargo, la mayoría (~82%) de las personas que trabajan para AMT están situadas en el Oeste (Canadá, Estados Unidos y Inglaterra) [^14]. Entonces, las etiquetas pueden contener sesgos prevalentes en la sociedad occidental. Bases de datos populares como ImageNet usaron AMT para clasificación de información [^15]. Las anotaciones no son siempre inofensivas. Un análisis de las anotaciones usadas en ImageNet revelaron que muchas de las etiquetas consistían de insultos raciales, de género, profanidad y lenguaje obsceno [^16].  
+
+En fotos de flores, aquellas con mujeres son en un estudio con personas sosteniendo las flores o posando con ellas mientras que fotos de hombres con flores son en ceremonias formales con ramos de flores presentados a alguien más [^17]. Esto refleja las estructuras de poder de la masculinidad y feminidad.  
 
 
 
@@ -159,3 +163,13 @@ Recke, Martin. 2021. "Why Imagination And Creativity Are Primary Value Creators 
 [^11]:Simonite, “When Ai sees a man”.
 
 [^12]:Simonite, “When Ai sees a man”.
+
+[^13]:Karkkainen and Joo, “fair Face”.
+
+[^14]:Ipeirotis, Panos, Panos Ipeirotis, and View profile. 2021. "Mechanical Turk: The Demographics". Behind-The-Enemy-Lines.Com. https://www.behind-the-enemy-lines.com/2008/03/mechanical-turk-demographics.html.
+
+[^15]:Kaiyu Yang, Klint Qinami, Li Fei-Fei, Jia Deng, and Olga Russakovsky. 2020. Towards fairer datasets : filtering and balancing the distribution of the people subtree in the ImageNet hierarchy. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* ' 20). Association for Computing Machinery, New York, NY, USA, 547–558. DOI: https://doi.org/10.1145/3351095.3375709
+
+[^16]:Yang, Kaiyu, Klint Qinami, Li Fei-Fei, Jia Deng, and Olga Russakovsky. 2021. "Towards Fairer Datasets."
+
+[^17]:Wang, Narayanan, and Russakovsky, “REVISE”.

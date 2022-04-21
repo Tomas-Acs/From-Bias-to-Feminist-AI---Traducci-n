@@ -142,6 +142,8 @@ Recke, Martin. 2021. "Why Imagination And Creativity Are Primary Value Creators 
 
 [^6]: Milenkovic, Jovan. 2021. "30 Eye-Opening Big Data Statistics For 2020: Patterns Are Everywhere". Kommandotech. https://kommandotech.com/statistics/big-data-statistics/.
 
-[^7]:
-[^8]:
-[^9]:
+[^7]:Karkkainen, Kimmo, and Jungseock Joo. 2021. Openaccess.Thecvf.Com. https://openaccess.thecvf.com/content/WACV2021/papers/Karkkainen_FairFace_Face_Attribute_Dataset_for_Balanced_Race_Gender_and_Age_WACV_2021_paper.pdf.
+
+[^8]:Wang, Angelina, Arvind Narayanan, and Olga Russakovsky. 2020. "REVISE: A Tool For Measuring And Mitigating Bias In Visual Datasets". Computer Vision – ECCV 2020, 733-751. doi:10.1007/978-3-030-58580-8_43.
+
+[^9]:Celis, L. Elisa, and Vijay Keswani. 2020. "Implicit Diversity In Image Summarization". Proceedings Of The ACM On Human-Computer Interaction 4 (CSCW2): 1-28. doi:10.1145/3415210.

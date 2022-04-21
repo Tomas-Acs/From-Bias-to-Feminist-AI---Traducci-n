@@ -106,9 +106,23 @@ Pero la información en si misma no es solo lo único que está susceptible al s
 
 En fotos de flores, aquellas con mujeres son en un estudio con personas sosteniendo las flores o posando con ellas mientras que fotos de hombres con flores son en ceremonias formales con ramos de flores presentados a alguien más [^17]. Esto refleja las estructuras de poder de la masculinidad y feminidad.  
 
+### Los sesgos no tan obvios
+
+Sesgos debido a la falta de diversidad son fácil de identificar y hasta cierto punto fáciles de rectificar. Sin embargo, existen ciertos sesgos sociales que se esconden a plena vista. Los constructos sociales del género están presentes en muchas bases de datos. Por ejemplo, en OpenImage, imágenes de cosméticos, muñecas y maquinas de lavar tienen mucha más representación femenina mientras que aquellas imágenes de rugby y cerveza tienen mucha más representación masculina [^18]. Estos patrones, los cuales despliegan la noción social del hombre y las mujeres son aprendidos por los modelos de AI. Similarmente en fotos de flores, aquellas con mujeres son en un estudio con personas sosteniendo las flores o posando con ellas mientras que fotos de hombres con flores son en ceremonias formales, con ramos de flores presentados a alguien más [^19]. Esto refleja las estructuras de poder de la masculinidad y feminidad.  
+
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6IjMyd2ZpYWoyLzMxNjI0Mzc2MzAxODc4LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164543930-b2538c50-38d4-43fb-8757-febb8ee29454.png)
+
+Imágenes de personas con flores en OpenImages. Fuente: Wang et al [^20]
+
+Otra perspectiva interesante de las bases de datos visuales son que las imágenes con personas y instrumentos tienen hombres interactuando con los instrumentos mientras que las mujeres son meramente observadoras [^21]. Esto es recordativo de la asociación de la masculinidad con el poder, control y ser asertivo mientras que la feminidad con la pasividad y el silencio.  
+
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Imk1ejMxYmIzLzYxNjI0Mzc2MzAxODc4LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164545564-24d7bacb-589c-4980-826b-d2e668327c6e.png)
 
 
 
+Han existido muchos intentos para resolver estos problemas. Muchos han intento crear bases de datos diversas como Pilot Parliamente Benchmark [^23] y Fair Face dataset [^24]. Sin embargo, estas bases de datos tienen sus propias limitaciones. Otro enfoque ha sido el de crear herramientas y técnicas para detectar y mitigar el sesgo existente en las bases de datos. Aunque un esfuerzo notable se ha hecho, falta mucho por hacer.
 
 ## Referencias
 
@@ -173,3 +187,11 @@ Recke, Martin. 2021. "Why Imagination And Creativity Are Primary Value Creators 
 [^16]:Yang, Kaiyu, Klint Qinami, Li Fei-Fei, Jia Deng, and Olga Russakovsky. 2021. "Towards Fairer Datasets."
 
 [^17]:Wang, Narayanan, and Russakovsky, “REVISE”.
+
+[^18]:
+
+[^19]:
+
+[^20]:
+
+[^21]:

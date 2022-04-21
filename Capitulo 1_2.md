@@ -48,7 +48,7 @@ Un estudio reciente [^2] analizó el sesgo de género en Wikipedia. Encontró qu
 
  ![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InBheDZwenB4LzAxNjI0Mzc2MzAxODc2LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164175199-b9263e39-c802-479d-97d2-bb43f28d41c9.png)
 
-Top de palabras claves para hombres y mujeres según Wikipedia. Fuente: wiki-gender  
+Top de palabras claves para hombres y mujeres según Wikipedia. Fuente: wiki-gender[^3]  
 
 
 Esto es consistente con los constructos sociales del género en los cuales los hombres están asociados con poder, éxito y fama mientras que las mujeres están típicamente asociadas a la sexualidad, apariencia y familia. Para entender mejor el sesgo presente en Wikipedia, los investigadores entrenaron un algoritmo de aprendizaje automático con Wikipedia, el cual tomó palabras claves y predijo el género asociado a ellas. Los primeros cinco adjetivos, los cuales al recibir el input “mujer” fueron hermosa, ganancias, creativa, romántica y “cross”. Los primeros cinco adjetivos para los hombres fueron ofensivo, duro, certero, defensivo y diplomático. Cuando este experimento se volvió a intentar con otras palabras, las top palabras para mujer fueron persona, casarse, modelo, bailarina y centrocampista y para hombre fue fútbol, musico, oficinista y guerra.  
@@ -70,8 +70,14 @@ Resultados de Google para "CEO" y "Soldado"
 
 
 
+![teacher](https://user-images.githubusercontent.com/70679118/164534193-781bdb69-1f38-48bf-9c65-7b74d8c7df4d.PNG)
+
+Resultados de Google para "enfermero" y "profesor"  
+
+Los resultados de las imágenes refuerzan patrones de sesgo de género, los cuales son aprendidos por ANNs, lo cual lleva a AI sesgado. Un ejemplo sería el servicio de reconocimiento de imágenes de Google, el cual cuando se le presenta la imagen de un hombre y una mujer y en ambientes similares, identifica al hombre como un hombre de negocios, oficial y traje mientras que la mujer la identifica con barbilla, corte de pelo y sonrisa [^4].  
 
 
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InAwbmcyeTJrLzAxNjI0Mzc2MzAxODc4LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164534665-f4e5faf3-2266-4058-a8d0-0054a3fe3164.png)
 
 
 
@@ -110,3 +116,7 @@ Recke, Martin. 2021. "Why Imagination And Creativity Are Primary Value Creators 
 [^1]: Sheng, Emily, Kai-Wei Chang, Premkumar Natarajan, and Nanyun Peng. 2019. "The Woman Worked As A Babysitter: On Biases In Language Generation". Proceedings Of The 2019 Conference On Empirical Methods In Natural Language Processing And The 9Th International Joint Conference On Natural Language Processing (EMNLP-IJCNLP). doi:10.18653/v1/d19-1339.
 
 [^2]: Kypraiou, Sofia, Natalie Bolón Brun, Natàlia Altés, and Irene Barrios. 2021. "Wikigender - Exploring Linguistic Bias In The Overview Of Wikipedia Biographies". Wiki-Gender.Github.Io. https://wiki-gender.github.io/.
+
+[^3]:Kypraiou, “Wikigender.”
+
+[^4]:Simonite, Tom. 2021. "When AI Sees A Man, It Thinks 'Official.' A Woman? 'Smile'". Wired. https://www.wired.com/story/ai-sees-man-thinks-official-woman-smile/.

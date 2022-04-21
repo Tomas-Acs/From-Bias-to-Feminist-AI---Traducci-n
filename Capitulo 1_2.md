@@ -48,7 +48,34 @@ Un estudio reciente [^2] analizó el sesgo de género en Wikipedia. Encontró qu
 
  ![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InBheDZwenB4LzAxNjI0Mzc2MzAxODc2LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164175199-b9263e39-c802-479d-97d2-bb43f28d41c9.png)
 
-Top de palabras claves para hombres y mujeres según Wikipedia. Fuente: wiki-gender
+Top de palabras claves para hombres y mujeres según Wikipedia. Fuente: wiki-gender  
+
+
+Esto es consistente con los constructos sociales del género en los cuales los hombres están asociados con poder, éxito y fama mientras que las mujeres están típicamente asociadas a la sexualidad, apariencia y familia. Para entender mejor el sesgo presente en Wikipedia, los investigadores entrenaron un algoritmo de aprendizaje automático con Wikipedia, el cual tomó palabras claves y predijo el género asociado a ellas. Los primeros cinco adjetivos, los cuales al recibir el input “mujer” fueron hermosa, ganancias, creativa, romántica y “cross”. Los primeros cinco adjetivos para los hombres fueron ofensivo, duro, certero, defensivo y diplomático. Cuando este experimento se volvió a intentar con otras palabras, las top palabras para mujer fueron persona, casarse, modelo, bailarina y centrocampista y para hombre fue fútbol, musico, oficinista y guerra.  
+
+Estas perspectivas claramente muestran un patrón que existe en la información disponible en el internet en la actualidad. La asociación de las mujeres con la sexualidad y la familia mientras que los hombres con poder y masoquismo claramente muestra la presencia de constructos sociales de género. Hay sesgos similares encontrados en investigaciones de imágenes presentes en el internet.  
+
+Una manera muy popular de entrenar ANNs para reconocer imágenes es entrenarlos con imágenes etiquetadas, sacadas del internet. Esto es hecho mayoritariamente de dos maneras – una usando motores de búsqueda como Google y la segunda manera es buscar información de páginas de alojamiento de imágenes como Flickr. Sin embargo, las imágenes contienen patrones de sesgo de género y raza entre ellas. Por ejemplo, el resultado de Google images cuando se busca “CEO” y “soldado” retorna imágenes de hombres mientras que “enfermero” y “profesor” retorna imágenes principalmente de mujeres.  
+
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Inp5azg1enNwLzMxNjI0Mzc2MzAxODc2LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164532760-817c0582-a68b-4c2b-8295-766445e377d2.png)
+
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6ImZkMTlkMjM4LzUxNjI0Mzc2MzAxODc5LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164532772-19d4bc67-7417-4bf9-9dce-1d24f566796d.png)
+
+Resultados de Google para "CEO" y "Soldado"
+
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Im5kaDUzczE1LzExNjI0Mzc2MzAxODc1LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164532832-88421a65-eb14-4a95-b0a0-b953cd43d3bd.png)
+
+
+
+
+
+
+
+
+
 
 ## Referencias
 

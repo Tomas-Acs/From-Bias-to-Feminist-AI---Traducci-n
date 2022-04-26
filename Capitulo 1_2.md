@@ -83,7 +83,7 @@ Servicio de reconocimiento de imágenes de Google [^5]
 
 Los constructos sociales de género, raza y poder son visibles a través del internet, desde foros como Reddit hasta enciclopedias como Wikipedia. Están extendidos a través del internet en petabytes de información. Cuando un ANNs, el cual está diseñado para aprender patrones en la información, son entrenados con este tipo de información, rápidamente aprenden estos sesgos. Para la pregunta, ¿Por qué hay sesgo en el AI? La respuesta es porque hay sesgo en nuestra sociedad.  
 
-## El fallo en nuestras bases de datos
+## 3.El fallo en nuestras bases de datos
 
 Modelos de aprendizaje profundo requieren cantidades masivas de información para su entrenamiento. Una de las razones del incremento de la eficiencia y del éxito de la inteligencia artificial en la segunda década del siglo veintiuno es la disponibilidad de grandes volúmenes de información, mayoritariamente al surgimiento del internet.  
 
@@ -118,11 +118,51 @@ Imágenes de personas con flores en OpenImages. Fuente: Wang et al [^20]
 Otra perspectiva interesante de las bases de datos visuales son que las imágenes con personas y instrumentos tienen hombres interactuando con los instrumentos mientras que las mujeres son meramente observadoras [^21]. Esto es recordativo de la asociación de la masculinidad con el poder, control y ser asertivo mientras que la feminidad con la pasividad y el silencio.  
 
 
-![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Imk1ejMxYmIzLzYxNjI0Mzc2MzAxODc4LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164545564-24d7bacb-589c-4980-826b-d2e668327c6e.png)
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Imk1ejMxYmIzLzYxNjI0Mzc2MzAxODc4LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/164545564-24d7bacb-589c-4980-826b-d2e668327c6e.png)  
 
+
+Imágenes de OpenImages para una persona (cuadro rojo) con un instrumento (cuadro azul). Los hombres tienden a estar tocando o interactuando con el instrumento, mientras las mujeres son solo observadoras. Fuente: Wang et al [^22]
 
 
 Han existido muchos intentos para resolver estos problemas. Muchos han intento crear bases de datos diversas como Pilot Parliamente Benchmark [^23] y Fair Face dataset [^24]. Sin embargo, estas bases de datos tienen sus propias limitaciones. Otro enfoque ha sido el de crear herramientas y técnicas para detectar y mitigar el sesgo existente en las bases de datos. Aunque un esfuerzo notable se ha hecho, falta mucho por hacer.
+
+## 4.Trampas en la búsqueda de la supremacía del AI
+
+Ya vimos como los sesgos sociales presentes en nuestra sociedad, a través del internet, se filtran en las bases de datos de entrenamiento. En esta sección, vamos a ver como los algoritmos de AI, cuando son entrenados con estas bases de datos, aprenden estos sesgos y los amplifican, concluyendo en sistemas de AI sesgados.  
+
+### La carrera para crear al mejor
+
+El 2012 fue un año extraordinario y punto de referencia para la inteligencia artificial en general y más específicamente el reconocimiento de imágenes. Fue el año en el cual el concepto “aprendizaje profundo” (Deep learning) fue usado en una de las competencias más grandes de reconocimiento de imágenes. Esta competencia, llamada Imagenet Large Scale Vision Recognition Challenge (ILSVRC), incluía clasificar imágenes de Imagenet dentro de 1000 categorias. ILSVRC 2012 fue testigo del surgimiento de AlexNet, una red neuronal profunda, inspirada por las neuronas del cerebro humano. AlexNet ganó la competencia por 10.8% y hizo un mejor desempeño que el segundo por un 41% [^25].  
+
+
+Fue un momento clave en la historia de la inteligencia artificial. Permitió un cambio en el paradigma de como los modelos AI debían ser creados y entrenados. Desde entonces, los algoritmos de aprendizaje profunda han mejorado continuamente y en el 2015, superaron a los humanos [^26]. La carrera había empezado, de construir el algoritmo más certero.  
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6ImRpcWwwcjd6LzMxNjI0Mzc2MzAxODc3LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/165230887-4c4bccd5-ccf5-4f90-ae39-2ed55e5baf52.png)  
+
+Algoritmos de aprendizaje profundo superando humanos en precisión en ILSVRC. Fuente: Semiconductor engineering  
+
+
+Desde entonces, investigadores han creado bases de datos con fotos de personas, para lograr entrenar modelos de inteligencia artificial para reconocer rostros humanos. Sin embargo, como se ha estudiado en la ultima sección, la mayoría de estas bases de datos están sesgadas en favor de personas blancas. Si una base de datos tan desbalanceada es usada para entrenar y evaluar, el modelo va a estar sesgado, incluso si muestra una precisión alta. Por ejemplo, la base de datos llamada Labelled Faces in the Wild (LFW), la cual tiene un 88% de rostros humanos blancos, es usada para entrenar un modelo de AI, el modelo va a estar completamente sesgado. Cuando esta misma base de datos es usada para evaluar el modelo entrenado, como la norma, el modelo va a resultar bastante preciso incluso si es sesgado. Por ejemplo, si un modelo que solo puede reconocer rostros blancos es evaluado usando la base de datos LFW, va a tener una precisión del más de un 85%. De la misma manera, esto puede ser una manera engañosa de estudiar la precisión.  
+
+### La precisión puede ser una forma engañosa de medir eficiencia
+
+Los analistas de datos emplean múltiples métricas más allá de la precisión, como falsos positivos, negatividad certera, etc. para manejar los problemas de bases de datos desbalanceadas. Sin embargo, necesitamos bases de datos diversas, específicamente creadas para evaluar modelos de reconocimiento facial con los cuales se puede identificar sesgo.  
+
+
+Una base de datos creada específicamente para esta meta ha sido Pilot Parliamente Benchmark (PPB). Consiste de 1270 imágenes de diputados de Africa y Europa. Cuando sistemas comerciales fueron evaluados con esta base de datos, los investigadores encontrar un margen de error mucho más pequeño para rostros blancos [^28].  
+
+![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6IjM1djA0b3J2LzExNjI0Mzc2MzAxODc3LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/165230926-c463cc1f-14b7-4d68-807d-f38096e33804.png)
+
+Pilot Parliament Benchmark. Fuente: Gender Shades  
+
+
+Sin embargo, bases de datos como PPB tienen sus propias limitaciones. La base de datos se enfoca solamente en rostros blancos y negros, dejando por fuera muchos tipos diferentes de rostros como los asiáticos y los de América del sur. Esto trae muchas preguntas importantes a la discusión. ¿Qué hace realmente una base de datos diversa? ¿Es posible hacer una, dada la diversidad de la humanidad? La búsqueda de respuestas a estas preguntas no se ha detenido.  
+
+### Fallas en la estructura
+
+Otro gran problema que ha surgido es la forma en la que los modelos de aprendizaje automático funcionan. Los modelos de aprendizaje automático funcionan creando generalizaciones y correlaciones, por ejemplo, asociando características del objetivo con etiquetas y creando un concepto generalizado del objetivo. Este concepto generalizado es usado para hacer predicciones y el proceso de esto se llama entrenamiento. Esto, sin embargo, lleva a la amplificación de sesgos que ya existen en bases de datos de entrenamiento. Por ejemplo, consideren una base de datos la cual tiene una mayoría (~80%) de imágenes de mujeres en la cocina y de hombres en el garaje. Va a generalizar que las personas en la cocina son mujeres y aquellos en el garaje son hombres. Con estas generalizaciones, puede alcanzar una precisión del 80%. De la misma manera, los modelos son “recompensados” cuando hacen una predicción correcta y debido al sesgo natural de la base de datos, el modelo va a ser “recompensado” por hacer predicciones sesgadas, lo cual va a amplificar el sesgo.   
+
+
 
 ## Referencias
 

@@ -188,10 +188,36 @@ Recke, Martin. 2021. "Why Imagination And Creativity Are Primary Value Creators 
 
 [^17]:Wang, Narayanan, and Russakovsky, “REVISE”.
 
-[^18]:
+[^18]: Wang, Narayanan, and Russakovsky, “REVISE”.
 
-[^19]:
+[^19]:Wang, Narayanan, and Russakovsky, “REVISE”.
 
-[^20]:
+[^20]:Wang, Narayanan, and Russakovsky, “REVISE”.
 
-[^21]:
+[^21]:Wang, Narayanan, and Russakovsky, “REVISE”.
+
+[^22]:Wang, Narayanan, and Russakovsky, “REVISE”.
+
+[^23]:Buolamwini, Joy, and Timnit Gebru. 2021. Proceedings.Mlr.Press. http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf.
+
+[^24]:Karkkainen and Joo, “Fair Face”.
+
+[^25]:
+
+[^26]:
+
+[^27]:
+
+[^28]:
+
+[^29]:
+
+[^30]:
+
+[^31]:
+
+[^32]:
+
+[^33]:
+
+[^34]:

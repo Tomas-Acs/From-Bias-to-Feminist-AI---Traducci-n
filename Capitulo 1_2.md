@@ -139,7 +139,7 @@ Fue un momento clave en la historia de la inteligencia artificial. Permitió un 
 
 ![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6ImRpcWwwcjd6LzMxNjI0Mzc2MzAxODc3LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/165230887-4c4bccd5-ccf5-4f90-ae39-2ed55e5baf52.png)  
 
-Algoritmos de aprendizaje profundo superando humanos en precisión en ILSVRC. Fuente: Semiconductor engineering  
+Algoritmos de aprendizaje profundo superando humanos en precisión en ILSVRC. Fuente: Semiconductor engineering  [^27]
 
 
 Desde entonces, investigadores han creado bases de datos con fotos de personas, para lograr entrenar modelos de inteligencia artificial para reconocer rostros humanos. Sin embargo, como se ha estudiado en la ultima sección, la mayoría de estas bases de datos están sesgadas en favor de personas blancas. Si una base de datos tan desbalanceada es usada para entrenar y evaluar, el modelo va a estar sesgado, incluso si muestra una precisión alta. Por ejemplo, la base de datos llamada Labelled Faces in the Wild (LFW), la cual tiene un 88% de rostros humanos blancos, es usada para entrenar un modelo de AI, el modelo va a estar completamente sesgado. Cuando esta misma base de datos es usada para evaluar el modelo entrenado, como la norma, el modelo va a resultar bastante preciso incluso si es sesgado. Por ejemplo, si un modelo que solo puede reconocer rostros blancos es evaluado usando la base de datos LFW, va a tener una precisión del más de un 85%. De la misma manera, esto puede ser una manera engañosa de estudiar la precisión.  
@@ -153,7 +153,7 @@ Una base de datos creada específicamente para esta meta ha sido Pilot Parliamen
 
 ![eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6IjM1djA0b3J2LzExNjI0Mzc2MzAxODc3LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=](https://user-images.githubusercontent.com/70679118/165230926-c463cc1f-14b7-4d68-807d-f38096e33804.png)
 
-Pilot Parliament Benchmark. Fuente: Gender Shades  
+Pilot Parliament Benchmark. Fuente: Gender Shades  [^29]
 
 
 Sin embargo, bases de datos como PPB tienen sus propias limitaciones. La base de datos se enfoca solamente en rostros blancos y negros, dejando por fuera muchos tipos diferentes de rostros como los asiáticos y los de América del sur. Esto trae muchas preguntas importantes a la discusión. ¿Qué hace realmente una base de datos diversa? ¿Es posible hacer una, dada la diversidad de la humanidad? La búsqueda de respuestas a estas preguntas no se ha detenido.  
@@ -270,22 +270,20 @@ Recke, Martin. 2021. "Why Imagination And Creativity Are Primary Value Creators 
 
 [^24]:Karkkainen and Joo, “Fair Face”.
 
-[^25]:
+[^25]:Gershgorn, Dave. 2021. "The Data That Transformed AI Research—And Possibly The World". Quartz. https://qz.com/1034972/the-data-tha t-changed-the-direction-of-ai-research-and-possibly-the-world/.
 
-[^26]:
+[^26]:Cooper, Gordon. 2021. "New Vision Technologies For Real-World Applications". Semiconductor Engineering. https://semiengineering.com/new-vision-technologies-for-real-world-applications/.
 
-[^27]:
+[^27]:Cooper, “New Vision Technologies”.
 
-[^28]:
+[^28]:Buolamwini, Joy, and Timnit Gebru. 2021. "Gender Shades". Gendershades.Org. http://gendershades.org/overview.html.
 
-[^29]:
+[^29]:Buolamwini, Joy, and Timnit Gebru. 2021. "Gender Shades". Gendershades.Org. http://gendershades.org/overview.html.
 
-[^30]:
+[^30]:Celis and Keswani, “Implicit Diversity”.
 
-[^31]:
+[^31]:Buolamwini and Gebru, “Gender Shades”.
 
-[^32]:
+[^32]:Wang, Narayanan, and Russakovsky, “REVISE”.
 
-[^33]:
 
-[^34]:

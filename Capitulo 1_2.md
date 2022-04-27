@@ -162,6 +162,34 @@ Sin embargo, bases de datos como PPB tienen sus propias limitaciones. La base de
 
 Otro gran problema que ha surgido es la forma en la que los modelos de aprendizaje automático funcionan. Los modelos de aprendizaje automático funcionan creando generalizaciones y correlaciones, por ejemplo, asociando características del objetivo con etiquetas y creando un concepto generalizado del objetivo. Este concepto generalizado es usado para hacer predicciones y el proceso de esto se llama entrenamiento. Esto, sin embargo, lleva a la amplificación de sesgos que ya existen en bases de datos de entrenamiento. Por ejemplo, consideren una base de datos la cual tiene una mayoría (~80%) de imágenes de mujeres en la cocina y de hombres en el garaje. Va a generalizar que las personas en la cocina son mujeres y aquellos en el garaje son hombres. Con estas generalizaciones, puede alcanzar una precisión del 80%. De la misma manera, los modelos son “recompensados” cuando hacen una predicción correcta y debido al sesgo natural de la base de datos, el modelo va a ser “recompensado” por hacer predicciones sesgadas, lo cual va a amplificar el sesgo.   
 
+## 5. Una historia de dos mundos
+
+### AI como software
+
+
+El sesgo en la AI es un problema muy real. Así que, si hemos identificado el problema, ¿por qué no lo estamos resolviendo? La respuesta es que los sistemas de AI son un desafío único. Técnicamente cualquier sistema de AI como una red neuronal es software. Sin embargo, a diferencia de software tradicional, el output no resulta constante para el mismo input. En software tradicional, un desarrollador programa las maneras exactas en las cuales el software se va a comportar, por ejemplo, todos los posibles outputs son conocidos de antemano. El software después es testeado para revisar que todos los parámetros son cumplidos. Los sistemas de AI en la otra mano aprenden con información, dan resultados y se autorregulan. De la misma manera, se comporta mucho más a un humano cuando los resultados cambian a través del tiempo. Esto hace que crear estándares y métricas para los sistemas de AI sea difícil, también el revisar el programa de sesgos.  
+
+
+Los sistemas de AI aprenden de información, dan un output y se autorregulan. De la misma manera, se comporta mucho más a un humano cuando los resultados cambien a través del tiempo.  
+
+### AI como software inteligente
+
+Si los sistemas de AI se comportan como humanos, ¿podemos usar métricas para juzgar a humanos? La respuesta es probablemente no. Los humanos son mucho más complejos que AI. La motivación por la que el AI aprende es muy simple, se autorrecompensa por crear asociaciones correctas con etiquetas. Los humanos por otro lado son impulsados por una multitud de factores sociológicos y psicológicos. El AI es mucho más propenso a sesgos implícitos [^30], mientras que los humanos están propensos a sesgos implícitos como explícitos. Entonces, muchos de los sesgos cognitivos como el sesgo de confirmación, inconsciente, en grupo, etc. no se pueden confirmar en AI, de la misma manera que es hecho en humanos. Las pruebas estándares para determinar sesgos en humanos como pruebas de reflexión cognitiva no pueden aplicarse a sistemas de AI.  
+
+
+### Un terreno común
+
+Entonces, ¿Qué exactamente son los sistemas de AI? ¿Son como humanos o son maquinas? La respuesta estaría en algún lugar del medio. Son más inteligentes que maquinas tradicionales y pueden autorregularse. Pero no están ni cerca de los humanos en términos de inteligencia y de habilidades de aprendizaje. Sin embargo, como se ha visto en las secciones anteriores, los sistemas de AI presentan muchos de los sesgos presentes en nuestra sociedad. Esto es entendible y esperado. Después de todo, es creado por humanos, basado en cerebros humanos y entrenado con información creada por humanos.  
+
+Lo que se necesita para poder entender completamente, detectar y mitigar estos sesgos en la AI, es que múltiples áreas como las ciencias de la computación, matemáticas, ciencias sociales, derecho etc. se reúnan. Los conceptos de sesgos y justicia de las ciencias sociales necesitan ser modificado y aplicado a las pruebas y métricas aplicadas a las ciencias de la computación e ingeniería de software, para poder crear métricas que se puedan usar en sistemas de AI.   
+
+Bases de datos usadas como puntos de referencia como el Pilot Parliament Benchmark [^31] y herramientas como REVISE [^32] son algunos ejemplos de como esto se puede hacer. Sin embargo, estas apenas tocan la superficie de los sesgos que están presentes en la AI y de aquellos que aun están por venir.   
+
+Los sistemas de AI impactan e interactúan con la sociedad humana mucho más profundamente que cualquier otra tecnología aun inventada. De la misma manera, los riesgos y peligros son mucho mas altos. El sesgo en los sistemas de AI es uno de los riesgos, que, si no se revisan, van a crear problemas de proporciones masivas, incluso incorporando riesgos existenciales. Entonces, está en el interés de la sociedad de reunirse y trabajar colaborativamente a través de disciplinas, geografías y grupos de interés para identificar, mitigar y corregís estos riesgos antes de que ocurran.   
+
+
+
+
 
 
 ## Referencias

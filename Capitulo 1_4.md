@@ -110,6 +110,23 @@ Basados en esta exploración inicial, los investigadores se han comprometido a e
 -	De la misma manera, el uso de diversas herramientas disponibles las cuales son necesarias para crear un cambio social hacia el AI feminista, considerando en particular las dinámicas entre las estrategias coactivas externas e internas, las cuales son criticas para taclear las barreras de alto nivel y su dependencia tan alta es nuestras vidas.
 -	Realizar investigación en historias de éxito, ejemplos donde actores feministas han tenido éxito en cerrar huecos de información de género, el uso de esta información y en construir un AI más feminista.
 
+-	Realizar investigación multi disciplinaria colaborativa que una diversas perspectivas y fuerzas no muy comunes en las conversaciones, tales como científicos de datos, desarrolladores, científicos sociales expertos en teoría de género, organizaciones feministas y organizadores de comunidades.
+-	Continuar empujando las fronteras de las actuales discusiones sobre *qué es* un AI feminista, identificar y movilizar alrededor de políticas de AI feminista que incluyan practicas informales y formales, al igual que diferentes niveles de cambio necesarios a nivel individual y sistemático.
+
+
+Para poder continuar la agenda del desarrollo del AI feminista desde la teoría, la practica y hasta el impacto, abajo mencionamos huecos claves presentes en la actual literatura sobre AI feminista:
+
+-	¿Quién está organizando alrededor del AI feminista, y quien está faltando? ¿Qué significa (y que se necesita) para fortalecer los movimientos sociales alrededor del AI feminista?
+
+-	Como están las organizaciones feministas en diferentes contextos geográficos discutiendo y/o movilizando alrededor del AI feminista? ¿Como están los defensores de la información de género relacionándose con aquellos defensores del AI feminista? 
+
+-	¿Cuál es el ciclo de vida de diferentes iniciativas del AI feminista, y cuáles son las barreras particulares?
+
+-	¿Las barreras identificadas en este proyecto (la falta de políticas claras, barreras de alto nivel y la dependencia de tecnología en nuestras vidas) son relevantes en diferentes geografías y contextos?
+
+Nuestro mundo está caracterizado por las normas las cuales son no inclusivas y son mantenidas por relaciones de poder. Frecuentemente prescriben que posible para ciertos grupos e individuos. Influencias que se puede tomar como experiencia, conocimiento e inteligencia. Pueden reforzar estereotipos de género y racismos, lo cual puede llevar a discriminación abierta y encubierta. Sin esfuerzos específicos y sistemáticos para el cambio, las organizaciones relacionadas a la ciencia y a la tecnología van a reforzar y extender las normas que profundizan la exclusión y la discriminación. Las organizaciones estructurales internas muchas veces replican la desigualdad de género, racial y de poder representadas a través de los sistemas. Similarmente, el AI desarrollado por estas organizaciones puede aumentar y amplificar la exclusión o represión del conocimiento de las mujeres y racializar el concepto de “inteligencia”.
+Pero las normas pueden cambiarse. Al llegar a un “punto de inflexión”, nuevas normas pueden convertirse más aceptadas.
+
 
 
 

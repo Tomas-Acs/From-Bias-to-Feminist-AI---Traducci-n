@@ -97,6 +97,19 @@ Si estos ejemplos defienden teorías que existen desde hace tiempo de cambio soc
 -	Debido a la incrustación tan fuerte de la tecnología en nuestra vida diaria y los retos para construir movimientos alrededor de reformas para un AI feminista, iniciativas educacionales (estrategias normativas) y demandas claras, apoyadas por evidencia (estrategias racionales) y presión interna (estrategias coactivas) son específicamente importantes. Es más, estas barreras penetrantes al cambio también indican la necesidad de un dialogo abierto entre organizaciones feministas y la comunidad tecnológica [^19]. El AI feminista requiere que las compañías de tecnología prioricen los derechos humanos y la igualdad de genero en todos los aspectos de su trabajo, no solo mediante información aislada con buenas iniciativas. 
 
 
+## 5. Conclusiones, recomendaciones y huecos de investigación
+
+La inteligencia artificial requiere de información de alta calidad y representatividad para poder maximizar el uso responsable del AI, y un buen AI feminista requiere buena información de género. Para poder entender mejor los “huecos de información de género” como una principal barrera hacia el AI feminista, construimos desde el marco de referencia de Gender at Work para diagnosticar las dinámicas formales e informales en un nivel individual y sistemático, afectando la calidad, disponibilidad y el uso de la información de género. Sugerimos que, al dirigirse a estas brechas, se requiere una identificación clara de los problemas causantes, los cuales pueden ser múltiples e intersecantes a la vez.    
+
+Desde el trabajo de Bennis, Bene y Chin, “familias” para el cambio, discutimos ejemplos emblemáticos para conseguir un AI más justo y feminista. Al hacerlo, también se volvió claro que mientras un balance de estrategias coactivas, racionales y normativas fueron necesarias para resolver las barreras discutidas previamente, también existen barreras únicas retrasando el progreso en esta área. La falta de una plataforma con políticas claras para un AI feminista, junto con la barrera de alto nivel y la incrustación de la tecnología en nuestras vidas, presentan un reto único para el AI feminista, los cuales van a necesitar ser enfrentados para alcanzar un progreso más substancial en el feminismo de datos y su uso.   
+
+Basados en esta exploración inicial, los investigadores se han comprometido a entender las raíces del sesgo o “mal” AI, e identificar los caminos para el desarrollo del AI feminista:  
+
+
+-	Reconocer el diverso ecosistema involucrado en la producción de información y su uso, y considerar los diferentes roles que los actores tienen en mantener o en desafiar los huecos de información de género, particularmente, el rol de la sociedad civil en movilizar para el cambio y en maneras de trabajar con los gobiernos para construir un cambio colaborativo.
+-	De la misma manera, el uso de diversas herramientas disponibles las cuales son necesarias para crear un cambio social hacia el AI feminista, considerando en particular las dinámicas entre las estrategias coactivas externas e internas, las cuales son criticas para taclear las barreras de alto nivel y su dependencia tan alta es nuestras vidas.
+-	Realizar investigación en historias de éxito, ejemplos donde actores feministas han tenido éxito en cerrar huecos de información de género, el uso de esta información y en construir un AI más feminista.
+
 
 
 

@@ -176,3 +176,24 @@ UN Women (2020). Families in a Changing World: Progress of the World's Women 201
 UN Women (2018). Turning promises into action: Gender equality in the 2030 Agenda for Sustainable Development
 
 Wakabayashi, D; Griffith, E; Tsang, A; and Conger, K (1 November 2018). Google Walkout: Employees Stage Protest Over Handling of Sexual Harassment. New York Times. https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html
+
+
+[^1]:Smith, M. (2018). Artificial intelligence and Human Development: Toward a research agenda, IDRC.
+[^2]:D’Ignazio and Klein (2020). Data Feminism. MIT Press.
+[^3]:Noble, S. U. (2018). Algorithms of oppression: How search engines reinforce racism. nyu Press.
+[^4]:Eubanks, V. (2018). Automating inequality: How high-tech tools profile, police, and punish the poor. St. Martin's Press.
+[^5]:Rao, A., Sandler, J., Kelleher, D., & Miller, C. (2015). Gender at work: Theory and practice for 21st century organizations. Routledge.
+[^6]:Bennis, W. G., Benne, K. D., & Chin, R. E. (1961). The planning of change: Readings in the applied behavioral sciences.
+[^7]:UN Women (2018). [Turning promises into action: Gender equality in the 2030 Agenda for Sustainable Development](https://www.unwomen.org/en/digital-library/publications/2018/2/gender-equality-in-the-2030-agenda-for-sustainable-development-2018); Data2x (2020). [Mapping gender data gaps: An SDG era update](https://data2x.org/resource-center/mappinggenderdatagaps/)
+[^8]:Azcona, G., and Duerte Valero, S. (2018). Making women and girls visible: Gender data gaps and why they matter. UN Women.
+[^9]:Fuentes, L. (2020). “The Garbage of Society”: Disposable Women and the Socio‐Spatial Scripts of Femicide in Guatemala. Antipode, 52(6), 1667-1687.
+[^10]:see D’Ignazio and Klein 2020
+[^11]:see Fuentes 2020
+[^12]:Cookson, T.P., Fuentes, L., Zulver, J., & Langwworthy, M. (2020). [Building Alliances for Gender Equality: How the tech community can strengthen the gender data ecosystem.](https://drive.google.com/file/d/1bsy_Gx7DHh8K54sRp74rJoWTLY47TdCU/view) Ladysmith.
+[^13]:Cookson et al 2020
+[^14]:UN Women (2020). Families in a Changing World: Progress of the World's Women 2019-2020. https://www.unwomen.org/en/digital-library/progress-of-the-worlds-women
+[^15]:Peters, Jay (2020). IBM will no longer offer, develop, or research facial recognition technology. The Verge. https://www.theverge.com/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software
+[^16]:Onuoha, M & Nucera, D (2018). A People’s Guide to Artificial Intelligence. Allied Media Projects. https://alliedmedia.org/speaker-projects/a-peoples-press
+[^17]:Wakabayashi, D; Griffith, E; Tsang, A; and Conger, K (1 November 2018). Google Walkout: Employees Stage Protest Over Handling of Sexual Harassment. New York Times. https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html
+[^18]:D’Ignazio and Klein (2020). Data Feminism. MIT Press.
+[^19]:Cookson et al 2020

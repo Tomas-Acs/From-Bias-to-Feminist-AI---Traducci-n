@@ -10,11 +10,13 @@ Traducción de los artículos [From Bias to Feminist AI](https://feministai.pubp
   * [Moviéndonos de la diagnosis al cambio](https://github.com/labexp/From-Bias-to-Feminist-AI-Traduccion/blob/main/Capitulo%201_4.md)
 * Capitulo 2
    * [Introducción al Feminismo de Datos](Capitulo%202.md)
+   * [Recopilación de Datos Feministas: Construyendo una Visión de un Sistema Inclusivo](Capítulo%202_1.md)
    
 
 
 ## Mantenedores
 [@Tomas-Acs](https://github.com/Tomas-Acs)
+[@sjcr23](https://github.com/sjcr23)
 
 
 

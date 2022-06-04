@@ -11,6 +11,7 @@ Traducción de los artículos [From Bias to Feminist AI](https://feministai.pubp
 * Capitulo 2
    * [Introducción al Feminismo de Datos](Capitulo%202.md)
    * [Recopilación de Datos Feministas: Construyendo una Visión de un Sistema Inclusivo](Capítulo%202_1.md)
+   * [Datos Contra el Feminicidio](Capitulo%202_2.md)
    
 
 

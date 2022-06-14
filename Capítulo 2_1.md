@@ -3,7 +3,6 @@
 Este es un artículo de revisión que examina recomendaciones y ejemplos de cómo implementar los principios del feminismo de datos presentados anteriormente en este capítulo por D'Ignazio y Klein.
 
 Escrito por *Amelia Pittman*, *Deirdre Appel* y *Open Data Watch*
-
 Publicado en 13 de septiembre de 2021.
 
 ---

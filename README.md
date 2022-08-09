@@ -4,21 +4,21 @@ Traducción de los artículos [From Bias to Feminist AI](https://feministai.pubp
 ## Tabla de contenido
 * [Introducción](https://github.com/labexp/From-Bias-to-Feminist-AI-Traduccion/blob/main/Introducci%C3%B3n.md)
 * Capítulo 1
-  * [Nosotros formamos nuestras herramientas de la misma manera que nuestras herramientas nos forman](Capitulo%201.md)
-  * [Los orígenes algorítmicos del sesgo](https://github.com/labexp/From-Bias-to-Feminist-AI-Traduccion/blob/main/Capitulo%201_2.md)
-  * [Practicando principios feministas en el diseño de Inteligencia Artificial](https://github.com/labexp/From-Bias-to-Feminist-AI-Traduccion/blob/main/Capitulo%201_3.md)
-  * [Moviéndonos de la diagnosis al cambio](https://github.com/labexp/From-Bias-to-Feminist-AI-Traduccion/blob/main/Capitulo%201_4.md)
+	* [Nosotros formamos nuestras herramientas de la misma manera que nuestras herramientas nos forman](Capitulo%201.md)
+	* [Los orígenes algorítmicos del sesgo](https://github.com/labexp/From-Bias-to-Feminist-AI-Traduccion/blob/main/Capitulo%201_2.md)
+	* [Practicando principios feministas en el diseño de Inteligencia Artificial](https://github.com/labexp/From-Bias-to-Feminist-AI-Traduccion/blob/main/Capitulo%201_3.md)
+	* [Moviéndonos de la diagnosis al cambio](https://github.com/labexp/From-Bias-to-Feminist-AI-Traduccion/blob/main/Capitulo%201_4.md)
 * Capitulo 2
-   * [Introducción al Feminismo de Datos](Capitulo%202.md)
-   * [Recopilación de Datos Feministas: Construyendo una Visión de un Sistema Inclusivo](Capítulo%202_1.md)
+	 * [Introducción al Feminismo de Datos](Capitulo%202.md)
+	 * [Recopilación de Datos Feministas: Construyendo una Visión de un Sistema Inclusivo](Capítulo%202_1.md)
 
-   * [Datos Contra el Feminicidio](/Capitulo%202_2.md)
+	 * [Datos Contra el Feminicidio](/Capitulo%202_2.md)
  * Capitulo 3
-   * [Eliminación del sesgo del algoritmo](/Capitulo%203.md)
+	 * [Eliminación del sesgo del algoritmo](/Capitulo%203.md)
 
-   * [Datos Contra el Feminicidio](Capitulo%202_2.md)
+	 * [¿Qué es la equidad?](/Capitulo%203_2.md)
 
-   
+	 
 
 
 ## Mantenedores

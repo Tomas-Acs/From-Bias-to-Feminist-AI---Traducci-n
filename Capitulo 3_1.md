@@ -15,10 +15,9 @@ Para empezar, empecemos por lo que no es. La equidad no es un concepto técnico 
 
 Podemos comenzar por examinar la ciencia y la investigación de datos a través de la lente del poder. Preguntar justo a quién, para quién, por quién y con cuyos intereses y metas están en el centro de los datos, el modelo y el sistema. Las respuestas a estas preguntas son contextuales tanto en la sociedad como en las matemáticas, y son el núcleo de un proceso de diseño básico y ético.
 
-|![ ](https://raw.githubusercontent.com/sjcr23/From-Bias-to-Feminist-AI-Traduccion/capitulo3/.github/images/Capitulo3_1/1.png)|
-|-|
-|![ ](https://raw.githubusercontent.com/sjcr23/From-Bias-to-Feminist-AI-Traduccion/capitulo3/.github/images/Capitulo3_1/2.png)|
-|*Equidad e Igualdad en el Derecho Internacional de los Derechos Humanos. Ilustración de la Sección de Derechos de la Mujer y Género del ACNUDH.*|
+|![ ](https://raw.githubusercontent.com/sjcr23/From-Bias-to-Feminist-AI-Traduccion/capitulo3/.github/images/Capitulo3_1/1.png)| ![ ](https://raw.githubusercontent.com/sjcr23/From-Bias-to-Feminist-AI-Traduccion/capitulo3/.github/images/Capitulo3_1/2.png)|
+|---|---|
+||*Equidad e Igualdad en el Derecho Internacional de los Derechos Humanos. Ilustración de la Sección de Derechos de la Mujer y Género del ACNUDH.*|
 
 Existen diferentes escuelas de pensamiento acerca de la equidad y la toma de decisiones éticas. En la actualidad, existen más de 80 pautas éticas diferentes para la IA. En matemáticas, según el último recuento, hay 21 definiciones matemáticas de equidad. Así como no existe una definición única de equidad o ética, tampoco existen acuerdos claros sobre qué definición aplicar en cada situación individual. Estas definiciones pueden incluso anularse entre sí en lo que se denomina el teorema de la imposibilidad[^1], que establece que no más de una de las tres métricas de equidad (asignaciones de riesgo) de paridad demográfica, paridad predictiva y probabilidades igualadas pueden ser válidas al mismo tiempo para un bien. clasificador calibrado[^2]. Por lo tanto, es necesario realizar compensaciones.
 
